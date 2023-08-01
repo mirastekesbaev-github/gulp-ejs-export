@@ -1,0 +1,1086 @@
+{
+  "company": {
+    "name": "ТОО Производстенная компания \"Аврора\"",
+    "codeTitle": "Учетные коды готовой продукции"
+  },
+  "doc": {
+    "code": "Л-ПК-05-88/2",
+    "startDate": "2023-05-30"
+  },
+  "creators": [
+    {
+      "type": "Разработан:",
+      "name": "Б. Б. Кабдылова",
+      "role": "Технолог",
+      "date": "09.03.2023"
+    },
+    {
+      "type": "Согласован:",
+      "name": "М. В. Яскель",
+      "role": "Начальник производства",
+      "date": "09.03.2023"
+    },
+    {
+      "type": "Утвержден:",
+      "name": "Д. К. Алшанбаев",
+      "role": "Генеральный директор",
+      "date": "09.03.2023"
+    }
+  ],
+  "encoders": [
+    {
+      "name": "plasticMaterials",
+      "content": [
+        {
+          "accountCode": "FPP021001",
+          "name": "Наименование"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "2"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "3"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "4"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "5"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "6"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "7"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "8"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "9"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "0"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "11"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "12"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "13"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "14"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "15"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "16"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "17"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "18"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "19"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "20"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "21"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "22"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "23"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "24"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "25"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "26"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "27"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "28"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "29"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "30"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "31"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "32"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "33"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "34"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "35"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "36"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "37"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "38"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "39"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "40"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "41"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "42"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "43"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "44"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "45"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "46"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "47"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "48"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "49"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "50"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "51"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "52"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "53"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "54"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "55"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "56"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "57"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "58"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "59"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "60"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "61"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "62"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "63"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "64"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "65"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "66"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "67"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "68"
+        },
+        {
+          "accountCode": "FPP021001",
+          "name": "69"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "70"
+        }
+      ]
+    },
+    {
+      "name": "chemicalMaterials",
+      "content": [
+        {
+          "productGroupName": "AKMASEPT ALOE VERA гель для рук антимикробный",
+          "productCode": "FP867",
+          "products": [
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP867001",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "AKMASEPT FLORAL HERBAL гель для рук антимикробный",
+          "productCode": "FP868",
+          "products": [
+            {
+              "name": "AKMASEPT FLORAL HERBAL гель для рук антимикробный ",
+              "accountCode": "FP868001",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": null,
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT FLORAL HERBAL гель для рук антимикробный ",
+              "accountCode": "FP868002",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 90 мл без красителя прозрачный",
+                "code": "P90-PET-0000T",
+                "color": ""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT FLORAL HERBAL гель для рук антимикробный ",
+              "accountCode": "FP868003",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 90 мл без красителя прозрачный",
+                "code": "P90-PET-0000T",
+                "color": ""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT FLORAL HERBAL гель для рук антимикробный ",
+              "accountCode": "FP868004",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 90 мл без красителя прозрачный",
+                "code": "P90-PET-0000T",
+                "color": ""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT FLORAL HERBAL гель для рук антимикробный ",
+              "accountCode": "FP868005",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 90 мл без красителя прозрачный",
+                "code": "P90-PET-0000T",
+                "color": ""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT FLORAL HERBAL гель для рук антимикробный ",
+              "accountCode": "FP868006",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 90 мл без красителя прозрачный",
+                "code": "P90-PET-0000T",
+                "color": ""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "AKMASEPT VANILA LIGHT спрей для рук антимикробный",
+          "productCode": "FP874",
+          "products": [
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP874001",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP874002",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 90 мл без красителя прозрачный",
+                "code": "P90-PET-0000T",
+                "color": ""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "AKMASEPT MINTY CHOCOLATE спрей для рук антимикробный",
+          "productCode": "FP875",
+          "products": [
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP875001",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP875002",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP875003",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "AKMASEPT MINTY CHOCOLATE спрей для рук антимикробный",
+          "productCode": "FP876",
+          "products": [
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP876001",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP876002",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP876003",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP876004",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP876005",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP876006",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP876007",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP876008",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP876009",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8760010",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8760011",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8760012",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8760013",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8760014",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8760015",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8760016",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8760017",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "AKMASEPT MINTY CHOCOLATE спрей для рук антимикробный",
+          "productCode": "FP877",
+          "products": [
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8770017",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "AKMASEPT MINTY CHOCOLATE спрей для рук антимикробный",
+          "productCode": "FP878",
+          "products": [
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8780017",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8780017",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8780017",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8780017",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8780017",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "AKMASEPT MINTY CHOCOLATE спрей для рук антимикробный",
+          "productCode": "FP879",
+          "products": [
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8790017",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8790017",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8790017",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8790017",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP8790017",
+              "volume": {
+                "value": 0.05,
+                "unit": ""
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color":""
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

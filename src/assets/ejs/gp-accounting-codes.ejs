@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Export</title>
+</head>
+<style>
+    /* common */
+    html {
+        -webkit-print-color-adjust: exact;
+    }
+
+    body {
+        margin: 0;
+        width: 1180px;
+        font-size: 15px;
+        font-family: Colibri, sans-serif;
+        color: #333;
+    }
+
+    article {
+        padding: 0;
+        margin: 0;
+    }
+
+    section {
+        position: relative;
+        margin: 0 auto;
+        height: 768px;
+        padding-bottom: 32px;
+        width: 1180px;
+        page-break-after: always;
+        border: 1px dashed lightblue;
+    }
+
+    section.title-page {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    section:not(section:first-child) {
+        overflow-y: scroll;
+    }
+
+    /* header */
+    header {
+        padding: 32px 0 24px 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .header-title {
+        text-align: right;
+    }
+
+    .logo {
+        height: 36px;
+    }
+
+    .logo-main {
+        height: 38px;
+    }
+
+    footer {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+
+    .main-info {
+        font-size: 14px;
+        margin-top: 60px;
+        text-align: center;
+    }
+
+    .company-info-title {
+        font-size: 18px
+    }
+
+    .company-info-title:first-child {
+        font-size: 14px;
+    }
+
+    .company-info-title:nth-child(2) {
+        margin-bottom: 8px;
+    }
+
+    .company-info-title:nth-child(3) {
+        margin-top: 8px;
+    }
+
+    /* creators */
+    .document-creation {
+        padding: 0 234px;
+        margin-bottom: 60px;
+        font-size: 14px;
+    }
+
+    .document-creation-title {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .document-creation-title--pageCount {
+        text-align: right;
+    }
+
+    .document-creation-content {
+        padding-top: 25px;
+    }
+
+    .document-creator {
+        margin-top: 46px;
+        display: grid;
+        grid-template-columns: 1fr 1.5fr 2.5fr 1fr;
+    }
+
+    .content-list {
+        padding: 0 60px;
+        list-style-type: none;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    table.chemicalMaterials {
+        margin-bottom: 42px;
+    }
+
+    table.chemicalMaterials thead tr td:nth-child(odd) {
+        width: 10%;
+    }
+
+    table.chemicalMaterials thead tr td:nth-child(even) {
+        width: 20%;
+    }
+
+    table.chemicalMaterials tbody tr td:nth-child(odd) {
+        width: 10%;
+    }
+
+    table.chemicalMaterials tbody tr td:nth-child(even) {
+        width: 20%;
+    }
+
+    table.products {
+        border: 2px solid black;
+    }
+
+    .products tr + tr {
+        border-top: 2px solid black;
+    }
+
+    .products  th + th {
+        border-left: .1px solid white;
+    }
+
+    .products td {
+        padding: 3px 0;
+        border: .1px solid white;
+    }
+
+    .products td:first-child {
+        width: 25%;
+    }
+
+    th {
+        padding: 10px 0;
+        font-weight: 400;
+    }
+
+    .products th {
+        font-weight: bold;
+    }
+
+    .products thead,
+    .products tfoot {
+        font-style: italic;
+        background-color: black;
+        color: #fff;
+    }
+
+    .products tbody tr:nth-of-type(2n+1) {
+        background-color: #ddd;
+    }
+
+    tr {
+        text-align: center;
+    }
+
+    td p {
+        margin: 6px;
+    }
+</style>
+<body>
+<article>
+    <section class="title-page">
+        <header>
+            <div class="logo-main">
+                <svg height="38" viewBox="0 0 204 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect width="203.246" height="54" fill="balck"/>
+                    <path fill-rule="evenodd" clip-rule="evenodd"
+                          d="M72.2301 10.3768C71.332 9.05954 69.3845 9.07488 68.5072 10.406L68.5072 10.406L53.1201 33.7519C52.4714 34.7362 52.7434 36.06 53.7276 36.7087C54.7119 37.3574 56.0357 37.0854 56.6844 36.1011L61.3273 29.0568H79.7998L84.6217 36.1289C85.2858 37.1029 86.6137 37.3541 87.5876 36.6901C88.5616 36.026 88.8128 34.6981 88.1487 33.7241L72.2301 10.3768C72.2301 10.3768 72.2301 10.3768 72.2301 10.3768ZM76.8892 24.7879L70.407 15.2807L64.1408 24.7879H76.8892ZM84.7453 14.9584C85.7534 14.3474 87.066 14.6694 87.677 15.6775L96.6096 30.4163L106.487 15.5998C107.141 14.619 108.466 14.3539 109.447 15.0078C110.428 15.6617 110.693 16.9869 110.039 17.9678L98.3928 35.4373C97.4826 36.8027 95.4619 36.7589 94.6115 35.3557L94.6114 35.3557L84.0262 17.8901C83.4153 16.882 83.7372 15.5694 84.7453 14.9584ZM119.528 19.4518C118.622 19.4518 117.746 19.7758 117.059 20.3652C116.218 21.086 115.734 22.1382 115.734 23.2457V35.4601C115.734 36.639 114.778 37.5946 113.599 37.5946C112.42 37.5946 111.465 36.639 111.465 35.4601V23.2457C111.465 20.892 112.493 18.6558 114.28 17.124C115.742 15.8715 117.603 15.183 119.528 15.183H125.872C127.051 15.183 128.007 16.1386 128.007 17.3174C128.007 18.4962 127.051 19.4518 125.872 19.4518H119.528ZM137.612 19.4518C136.688 19.4518 135.789 19.7514 135.05 20.3056C133.975 21.1118 133.343 22.3771 133.343 23.7207V28.3625C133.343 29.4484 133.867 30.4674 134.751 31.0986C135.321 31.5059 136.004 31.7249 136.705 31.7249H147.59C148.29 31.7249 148.974 31.5059 149.544 31.0986C150.428 30.4674 150.952 29.4484 150.952 28.3625V23.2457C150.952 22.1382 150.468 21.086 149.627 20.3652C148.94 19.7758 148.064 19.4518 147.158 19.4518H137.612ZM132.489 16.8905C133.967 15.7821 135.764 15.183 137.612 15.183H147.158C149.083 15.183 150.944 15.8715 152.405 17.124C154.192 18.6558 155.221 20.892 155.221 23.2457V28.3625C155.221 30.827 154.031 33.1398 152.025 34.5723C150.731 35.4968 149.18 35.9937 147.59 35.9937H136.705C135.115 35.9937 133.564 35.4968 132.27 34.5723C130.264 33.1398 129.074 30.827 129.074 28.3625V23.7207C129.074 21.0334 130.339 18.5029 132.489 16.8905ZM167.019 19.4518C166.113 19.4518 165.237 19.7758 164.55 20.3652C163.709 21.086 163.225 22.1382 163.225 23.2457V35.4601C163.225 36.639 162.269 37.5946 161.091 37.5946C159.912 37.5946 158.956 36.639 158.956 35.4601V23.2457C158.956 20.892 159.985 18.6558 161.772 17.124C163.233 15.8715 165.094 15.183 167.019 15.183H173.364C174.542 15.183 175.498 16.1386 175.498 17.3174C175.498 18.4962 174.542 19.4518 173.364 19.4518H167.019ZM179.767 17.3174C179.767 16.1386 180.722 15.183 181.901 15.183H195.615C197.309 15.183 198.933 15.8557 200.13 17.0532L201.111 18.0341C202.478 19.4008 203.246 21.2544 203.246 23.1871V28.4646C203.246 30.8183 202.217 33.0545 200.43 34.5863C198.969 35.8389 197.108 36.5274 195.183 36.5274H182.435C180.588 36.5274 178.79 35.9282 177.312 34.8198L176.818 34.4492C174.979 33.0701 173.897 30.9057 173.897 28.6073C173.897 26.5761 174.785 24.6463 176.327 23.3244L176.713 22.9937C178.174 21.7412 180.035 21.0527 181.96 21.0527L198.093 21.0527L197.112 20.0718C196.715 19.6748 196.177 19.4518 195.615 19.4518H181.901C180.722 19.4518 179.767 18.4962 179.767 17.3174ZM198.977 25.3216H181.96C181.054 25.3216 180.178 25.6455 179.491 26.2349L179.105 26.5656C178.509 27.0765 178.166 27.8223 178.166 28.6073C178.166 29.5621 178.616 30.4612 179.379 31.0341L179.874 31.4047C180.613 31.9589 181.511 32.2585 182.435 32.2585H195.183C196.089 32.2585 196.964 31.9345 197.652 31.3451C198.493 30.6244 198.977 29.5721 198.977 28.4646V25.3216Z"
+                          fill="black"/>
+                    <path fill-rule="evenodd" clip-rule="evenodd"
+                          d="M107.195 42.5791H108.263V45.7808H114.132V42.5791H115.199V50.0496H114.132V46.848H108.263V50.0496H107.195V42.5791ZM123.273 42.7481C123.496 42.637 123.741 42.5791 123.989 42.5791H129.889C130.137 42.5791 130.382 42.637 130.604 42.7481L130.856 42.8741C131.399 43.1452 131.741 43.6995 131.741 44.3059V48.0067C131.741 48.4313 131.573 48.8385 131.272 49.1387L130.83 49.5808C130.53 49.881 130.123 50.0496 129.698 50.0496H124.179C123.755 50.0496 123.348 49.881 123.047 49.5808L122.605 49.1387C122.305 48.8385 122.136 48.4313 122.136 48.0067V44.3059C122.136 43.6995 122.479 43.1452 123.021 42.8741L123.273 42.7481ZM123.989 43.6463C123.906 43.6463 123.825 43.6656 123.751 43.7027L123.499 43.8286C123.318 43.919 123.204 44.1038 123.204 44.3059V48.0067C123.204 48.1483 123.26 48.284 123.36 48.3841L123.802 48.8261C123.902 48.9262 124.038 48.9824 124.179 48.9824H129.698C129.84 48.9824 129.976 48.9262 130.076 48.8261L130.518 48.3841C130.618 48.284 130.674 48.1483 130.674 48.0067V44.3059C130.674 44.1038 130.56 43.919 130.379 43.8286L130.127 43.7027C130.053 43.6656 129.971 43.6463 129.889 43.6463H123.989ZM138.678 42.5791H139.745V48.9824H146.149V50.0496H138.678V42.5791ZM153.619 42.5791H159.139C159.846 42.5791 160.525 42.8602 161.025 43.3606L161.376 43.7111C161.876 44.2114 162.157 44.89 162.157 45.5977V47.8026C162.157 48.3293 162.001 48.8442 161.709 49.2825L161.634 49.3952C161.139 50.1374 160.306 50.5832 159.414 50.5832H153.619V42.5791ZM154.687 43.6463V49.516H159.414C159.949 49.516 160.449 49.2485 160.746 48.8032L160.821 48.6905C160.996 48.4276 161.09 48.1186 161.09 47.8026V45.5977C161.09 45.1731 160.921 44.7659 160.621 44.4657L160.27 44.1152C159.97 43.815 159.563 43.6463 159.139 43.6463H154.687ZM169.628 50.0496V42.5791H170.695V50.0496H169.628ZM177.632 50.0496V42.5791H178.699L186.17 48.4488V42.5791H187.237V50.0496H186.17L178.699 44.1799V50.0496H177.632ZM194.551 43.048C194.851 42.7478 195.258 42.5791 195.683 42.5791H200.577V43.6463H195.683C195.541 43.6463 195.406 43.7025 195.306 43.8026L194.864 44.2447C194.763 44.3447 194.707 44.4805 194.707 44.622V48.5404C194.707 48.6819 194.763 48.8176 194.864 48.9177L195.306 49.3597C195.406 49.4598 195.541 49.516 195.683 49.516H201.202C201.344 49.516 201.479 49.4598 201.579 49.3597L202.022 48.9177C202.122 48.8176 202.178 48.6819 202.178 48.5404V47.5076C202.178 47.3054 202.064 47.1207 201.883 47.0303L201.631 46.9043C201.557 46.8673 201.475 46.848 201.392 46.848H197.375V45.7808H201.392C201.641 45.7808 201.886 45.8386 202.108 45.9498L202.36 46.0757C202.902 46.3469 203.245 46.9012 203.245 47.5076V48.5404C203.245 48.9649 203.076 49.3721 202.776 49.6723L202.334 50.1144C202.034 50.4146 201.627 50.5832 201.202 50.5832H195.683C195.258 50.5832 194.851 50.4146 194.551 50.1144L194.109 49.6723C193.809 49.3721 193.64 48.9649 193.64 48.5404V44.622C193.64 44.1974 193.809 43.7902 194.109 43.49L194.551 43.048Z"
+                          fill="black"/>
+                    <path fill-rule="evenodd" clip-rule="evenodd"
+                          d="M0 53.7464C0.108901 53.8326 0.219206 53.9172 0.330875 54H0V53.7464ZM18.4632 17.0227L23.4552 0.798891C25.6649 -0.75216 26.3728 -0.000689608 27.1991 2.67085L20.9592 22.0146H2.8634C0.77668 20.0652 0.822539 18.9722 2.8634 17.0227H18.4632ZM49.039 17.0227H29.695C27.2688 18.9722 27.2143 20.0652 29.695 22.0146H40.9269L32.815 28.8784C31.4819 32.2771 32.8459 32.4107 35.3109 32.6226L49.039 22.0146C50.8416 19.8976 51.1478 18.7761 49.039 17.0227ZM15.3432 28.2546L9.10333 47.5983C8.90478 50.3964 9.9033 50.5371 12.2233 50.0942L25.327 39.4865L36.5589 48.2224C39.7682 48.389 40.4185 47.5425 39.6789 44.4783L25.9511 34.4944L15.3432 41.9824L19.0872 29.5026C17.9389 27.3482 17.113 27.1075 15.3432 28.2546Z"
+                          fill="black"/>
+                </svg>
+            </div>
+            <div> <%= company.name %> </div>
+            <div>Система документации</div>
+        </header>
+        <div class="main-info">
+            <p class="company-info-title">СПИСОК</p>
+            <p class="company-info-title"><%= company.codeTitle.toUpperCase() %></p>
+            <p class="company-info-title"> <%= company.name %> </p>
+            <p class="company-code"> <%= doc.code %> </p>
+        </div>
+        <div class="document-creation">
+            <div class="document-creation-title">
+                <div class="document-creation-title--date">
+                    Действует с <%= doc.startDate %> до отмены / замены
+                </div>
+                <div class="document-creation-title--pageCount">
+                    Количество страниц:
+                </div>
+            </div>
+            <div class="document-creation-content">
+                <% creators.forEach((creator) => { %>
+                    <div class="document-creator">
+                        <div class="document-creator--type"><%= creator.type.toUpperCase() %></div>
+                        <div class="document-creator--name"><%= creator.name %></div>
+                        <div class="document-creator--role"><%= creator.role %></div>
+                        <div class="document-creator--date"><%= creator.date %></div>
+                    </div>
+                <% }) %>
+            </div>
+        </div>
+    </section>
+    <% encoders.forEach((encoder, index) => { %>
+        <section class="<%= encoder.name %>" data-table-index="<%= index + 1 %>">
+            <header>
+                <div class="logo">
+                    <svg height="38" viewBox="0 0 204 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <rect width="203.246" height="54" fill="balck"/>
+                        <path fill-rule="evenodd" clip-rule="evenodd"
+                              d="M72.2301 10.3768C71.332 9.05954 69.3845 9.07488 68.5072 10.406L68.5072 10.406L53.1201 33.7519C52.4714 34.7362 52.7434 36.06 53.7276 36.7087C54.7119 37.3574 56.0357 37.0854 56.6844 36.1011L61.3273 29.0568H79.7998L84.6217 36.1289C85.2858 37.1029 86.6137 37.3541 87.5876 36.6901C88.5616 36.026 88.8128 34.6981 88.1487 33.7241L72.2301 10.3768C72.2301 10.3768 72.2301 10.3768 72.2301 10.3768ZM76.8892 24.7879L70.407 15.2807L64.1408 24.7879H76.8892ZM84.7453 14.9584C85.7534 14.3474 87.066 14.6694 87.677 15.6775L96.6096 30.4163L106.487 15.5998C107.141 14.619 108.466 14.3539 109.447 15.0078C110.428 15.6617 110.693 16.9869 110.039 17.9678L98.3928 35.4373C97.4826 36.8027 95.4619 36.7589 94.6115 35.3557L94.6114 35.3557L84.0262 17.8901C83.4153 16.882 83.7372 15.5694 84.7453 14.9584ZM119.528 19.4518C118.622 19.4518 117.746 19.7758 117.059 20.3652C116.218 21.086 115.734 22.1382 115.734 23.2457V35.4601C115.734 36.639 114.778 37.5946 113.599 37.5946C112.42 37.5946 111.465 36.639 111.465 35.4601V23.2457C111.465 20.892 112.493 18.6558 114.28 17.124C115.742 15.8715 117.603 15.183 119.528 15.183H125.872C127.051 15.183 128.007 16.1386 128.007 17.3174C128.007 18.4962 127.051 19.4518 125.872 19.4518H119.528ZM137.612 19.4518C136.688 19.4518 135.789 19.7514 135.05 20.3056C133.975 21.1118 133.343 22.3771 133.343 23.7207V28.3625C133.343 29.4484 133.867 30.4674 134.751 31.0986C135.321 31.5059 136.004 31.7249 136.705 31.7249H147.59C148.29 31.7249 148.974 31.5059 149.544 31.0986C150.428 30.4674 150.952 29.4484 150.952 28.3625V23.2457C150.952 22.1382 150.468 21.086 149.627 20.3652C148.94 19.7758 148.064 19.4518 147.158 19.4518H137.612ZM132.489 16.8905C133.967 15.7821 135.764 15.183 137.612 15.183H147.158C149.083 15.183 150.944 15.8715 152.405 17.124C154.192 18.6558 155.221 20.892 155.221 23.2457V28.3625C155.221 30.827 154.031 33.1398 152.025 34.5723C150.731 35.4968 149.18 35.9937 147.59 35.9937H136.705C135.115 35.9937 133.564 35.4968 132.27 34.5723C130.264 33.1398 129.074 30.827 129.074 28.3625V23.7207C129.074 21.0334 130.339 18.5029 132.489 16.8905ZM167.019 19.4518C166.113 19.4518 165.237 19.7758 164.55 20.3652C163.709 21.086 163.225 22.1382 163.225 23.2457V35.4601C163.225 36.639 162.269 37.5946 161.091 37.5946C159.912 37.5946 158.956 36.639 158.956 35.4601V23.2457C158.956 20.892 159.985 18.6558 161.772 17.124C163.233 15.8715 165.094 15.183 167.019 15.183H173.364C174.542 15.183 175.498 16.1386 175.498 17.3174C175.498 18.4962 174.542 19.4518 173.364 19.4518H167.019ZM179.767 17.3174C179.767 16.1386 180.722 15.183 181.901 15.183H195.615C197.309 15.183 198.933 15.8557 200.13 17.0532L201.111 18.0341C202.478 19.4008 203.246 21.2544 203.246 23.1871V28.4646C203.246 30.8183 202.217 33.0545 200.43 34.5863C198.969 35.8389 197.108 36.5274 195.183 36.5274H182.435C180.588 36.5274 178.79 35.9282 177.312 34.8198L176.818 34.4492C174.979 33.0701 173.897 30.9057 173.897 28.6073C173.897 26.5761 174.785 24.6463 176.327 23.3244L176.713 22.9937C178.174 21.7412 180.035 21.0527 181.96 21.0527L198.093 21.0527L197.112 20.0718C196.715 19.6748 196.177 19.4518 195.615 19.4518H181.901C180.722 19.4518 179.767 18.4962 179.767 17.3174ZM198.977 25.3216H181.96C181.054 25.3216 180.178 25.6455 179.491 26.2349L179.105 26.5656C178.509 27.0765 178.166 27.8223 178.166 28.6073C178.166 29.5621 178.616 30.4612 179.379 31.0341L179.874 31.4047C180.613 31.9589 181.511 32.2585 182.435 32.2585H195.183C196.089 32.2585 196.964 31.9345 197.652 31.3451C198.493 30.6244 198.977 29.5721 198.977 28.4646V25.3216Z"
+                              fill="black"/>
+                        <path fill-rule="evenodd" clip-rule="evenodd"
+                              d="M107.195 42.5791H108.263V45.7808H114.132V42.5791H115.199V50.0496H114.132V46.848H108.263V50.0496H107.195V42.5791ZM123.273 42.7481C123.496 42.637 123.741 42.5791 123.989 42.5791H129.889C130.137 42.5791 130.382 42.637 130.604 42.7481L130.856 42.8741C131.399 43.1452 131.741 43.6995 131.741 44.3059V48.0067C131.741 48.4313 131.573 48.8385 131.272 49.1387L130.83 49.5808C130.53 49.881 130.123 50.0496 129.698 50.0496H124.179C123.755 50.0496 123.348 49.881 123.047 49.5808L122.605 49.1387C122.305 48.8385 122.136 48.4313 122.136 48.0067V44.3059C122.136 43.6995 122.479 43.1452 123.021 42.8741L123.273 42.7481ZM123.989 43.6463C123.906 43.6463 123.825 43.6656 123.751 43.7027L123.499 43.8286C123.318 43.919 123.204 44.1038 123.204 44.3059V48.0067C123.204 48.1483 123.26 48.284 123.36 48.3841L123.802 48.8261C123.902 48.9262 124.038 48.9824 124.179 48.9824H129.698C129.84 48.9824 129.976 48.9262 130.076 48.8261L130.518 48.3841C130.618 48.284 130.674 48.1483 130.674 48.0067V44.3059C130.674 44.1038 130.56 43.919 130.379 43.8286L130.127 43.7027C130.053 43.6656 129.971 43.6463 129.889 43.6463H123.989ZM138.678 42.5791H139.745V48.9824H146.149V50.0496H138.678V42.5791ZM153.619 42.5791H159.139C159.846 42.5791 160.525 42.8602 161.025 43.3606L161.376 43.7111C161.876 44.2114 162.157 44.89 162.157 45.5977V47.8026C162.157 48.3293 162.001 48.8442 161.709 49.2825L161.634 49.3952C161.139 50.1374 160.306 50.5832 159.414 50.5832H153.619V42.5791ZM154.687 43.6463V49.516H159.414C159.949 49.516 160.449 49.2485 160.746 48.8032L160.821 48.6905C160.996 48.4276 161.09 48.1186 161.09 47.8026V45.5977C161.09 45.1731 160.921 44.7659 160.621 44.4657L160.27 44.1152C159.97 43.815 159.563 43.6463 159.139 43.6463H154.687ZM169.628 50.0496V42.5791H170.695V50.0496H169.628ZM177.632 50.0496V42.5791H178.699L186.17 48.4488V42.5791H187.237V50.0496H186.17L178.699 44.1799V50.0496H177.632ZM194.551 43.048C194.851 42.7478 195.258 42.5791 195.683 42.5791H200.577V43.6463H195.683C195.541 43.6463 195.406 43.7025 195.306 43.8026L194.864 44.2447C194.763 44.3447 194.707 44.4805 194.707 44.622V48.5404C194.707 48.6819 194.763 48.8176 194.864 48.9177L195.306 49.3597C195.406 49.4598 195.541 49.516 195.683 49.516H201.202C201.344 49.516 201.479 49.4598 201.579 49.3597L202.022 48.9177C202.122 48.8176 202.178 48.6819 202.178 48.5404V47.5076C202.178 47.3054 202.064 47.1207 201.883 47.0303L201.631 46.9043C201.557 46.8673 201.475 46.848 201.392 46.848H197.375V45.7808H201.392C201.641 45.7808 201.886 45.8386 202.108 45.9498L202.36 46.0757C202.902 46.3469 203.245 46.9012 203.245 47.5076V48.5404C203.245 48.9649 203.076 49.3721 202.776 49.6723L202.334 50.1144C202.034 50.4146 201.627 50.5832 201.202 50.5832H195.683C195.258 50.5832 194.851 50.4146 194.551 50.1144L194.109 49.6723C193.809 49.3721 193.64 48.9649 193.64 48.5404V44.622C193.64 44.1974 193.809 43.7902 194.109 43.49L194.551 43.048Z"
+                              fill="black"/>
+                        <path fill-rule="evenodd" clip-rule="evenodd"
+                              d="M0 53.7464C0.108901 53.8326 0.219206 53.9172 0.330875 54H0V53.7464ZM18.4632 17.0227L23.4552 0.798891C25.6649 -0.75216 26.3728 -0.000689608 27.1991 2.67085L20.9592 22.0146H2.8634C0.77668 20.0652 0.822539 18.9722 2.8634 17.0227H18.4632ZM49.039 17.0227H29.695C27.2688 18.9722 27.2143 20.0652 29.695 22.0146H40.9269L32.815 28.8784C31.4819 32.2771 32.8459 32.4107 35.3109 32.6226L49.039 22.0146C50.8416 19.8976 51.1478 18.7761 49.039 17.0227ZM15.3432 28.2546L9.10333 47.5983C8.90478 50.3964 9.9033 50.5371 12.2233 50.0942L25.327 39.4865L36.5589 48.2224C39.7682 48.389 40.4185 47.5425 39.6789 44.4783L25.9511 34.4944L15.3432 41.9824L19.0872 29.5026C17.9389 27.3482 17.113 27.1075 15.3432 28.2546Z"
+                              fill="black"/>
+                    </svg>
+                </div>
+                <div class="header-title">
+                    <%= company.codeTitle.toUpperCase() %>
+                </div>
+                <div><%= doc.code %></div>
+            </header>
+            <% if (encoder.name === 'plasticMaterials') { %>
+                <ul class="content-list">
+                    <li>
+                        <span>I.</span>
+                        <span>УЧЕТНЫЕ КОДЫ ГОТОВОЙ ПРОДУКЦИИ ИЗ ПЛАСТМАСС</span>
+                    </li>
+                </ul>
+            <% } else if (encoder.name === 'chemicalMaterials') { %>
+                <ul class="content-list">
+                    <li>
+                        <span>II.</span>
+                        <span>УЧЕТНЫЕ КОДЫ ГОТОВОЙ ПРОДУКЦИИ ИЗ ХИМИЧЕСКОГО СЫРЬЯ И НЕТКАНЫХ МАТЕРИАЛОВ</span>
+                    </li>
+                </ul>
+            <% } %>
+
+            <% if (encoder.name === 'plasticMaterials') { %>
+                <table class="plasticMaterials products">
+                    <thead>
+                    <tr>
+                        <th>Учетный код</th>
+                        <th>Наименование</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <% encoder.content.forEach((element) => { %>
+                        <% if (element) { %>
+                            <tr>
+                                <% Object.keys(element).forEach((elementKey) => { %>
+                                    <td><b><%= element[elementKey] %></b></td>
+                                <% }) %>
+                            </tr>
+                        <% } %>
+                    <% }) %>
+                    </tbody>
+                </table>
+            <% } %>
+
+            <% if (encoder.name === 'chemicalMaterials') { %>
+                <% encoder.content.forEach((element) => { %>
+                    <table class="chemicalMaterials">
+                        <thead>
+                        <% if (element) { %>
+                            <tr>
+                                <th colspan="7"><b><%= element?.productCode + ' - ' + element?.productGroupName %></b></th>
+                            </tr>
+                            <tr>
+                                <td><b><i>Учетный код</i></b></td>
+                                <td><b><i>Наименование</i></b></td>
+                                <td><b><i>Номинальное количество</i></b></td>
+                                <td><b><i>Потребительская тара</i></b></td>
+                                <td><b><i>Цвет тары</i></b></td>
+                                <td><b><i>Укупурочное средство</i></b></td>
+                                <td><b><i>Цвет укупорки</i></b></td>
+                            </tr>
+                        <% } %>
+                        </thead>
+                        <tbody>
+                        <% element.products.forEach((product) => { %>
+                            <% if (product) { %>
+                                <tr>
+                                    <td><%= product?.accountCode %></td>
+                                    <td><%= product?.name %></td>
+                                    <td><%= product?.volume?.value + ' ' + product?.volume?.unit %></td>
+                                    <td>
+                                        <p><%= product?.consumerContainer?.name %></p>
+                                        <p><%= product?.consumerContainer?.code %></p>
+                                    </td>
+                                    <td><%= product?.consumerContainer?.color %></td>
+                                    <td>
+                                        <p><%= product?.closure?.name %></p>
+                                        <p><%= product?.closure?.code %></p>
+                                    </td>
+                                    <td><%= product?.closure?.color %></td>
+                                </tr>
+                            <% } %>
+                        <% }) %>
+                        </tbody>
+                    </table>
+                <% }) %>
+            <% } %>
+        </section>
+    <% }) %>
+</article>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+
+        function reverseChildren (node) {
+            const parent = node
+            const children = parent.children
+            const parentClone = parent.cloneNode()
+            for (let i = children.length - 1; i >= 0; i--) {
+                parentClone.appendChild(children[i]);
+            }
+            parent.parentElement.appendChild(parentClone)
+            parent.remove()
+        }
+
+        function fullCheck () {
+            pagePagination()
+            pageNumbering()
+            const sections = document.querySelectorAll('section')
+            const sectionsWithOverflow = []
+            for (let i = 1; i < sections.length; i++) {
+                if (sections[i].scrollHeight > sections[i].clientHeight) {
+                    sectionsWithOverflow.push({ index: i, tableClass: sections[i].classList[0] })
+                }
+            }
+            if (sectionsWithOverflow.length) {
+                fullCheck()
+            } else {
+                return
+            }
+        }
+
+        // Нумерация страниц и скрытие overflow
+        function pageNumbering () {
+            const formattedSections = document.querySelectorAll('section')
+            for (let sectionIndex = 1; sectionIndex < formattedSections.length; sectionIndex++) {
+                formattedSections[sectionIndex].style.overflow = 'hidden'
+                let pageNumber = formattedSections[sectionIndex].querySelector('.page-number')
+                if (!pageNumber) {
+                    pageNumber = document.createElement('div')
+                    pageNumber.classList.add('page-number')
+                }
+                pageNumber.style.textAlign = 'end'
+                pageNumber.style.position = 'absolute'
+                pageNumber.style.width = '100%'
+                pageNumber.style.bottom = 0
+                pageNumber.innerHTML = `Страница ${sectionIndex+1} из ${formattedSections.length}`
+                formattedSections[sectionIndex].appendChild(pageNumber)
+            }
+            const countOfPagesNode = document.querySelector('.document-creation-title--pageCount')
+            if (countOfPagesNode) {
+                countOfPagesNode.innerHTML = `Количество страниц: ${formattedSections.length}`
+            }
+        }
+
+        // Рекурсивный перенос записей таблиц на новую страницу
+        function pagePagination () {
+            const sections = document.querySelectorAll('section')
+            const sectionsWithOverflow = []
+            for (let i = 1; i < sections.length; i++) {
+                if (sections[i].scrollHeight > sections[i].clientHeight) {
+                    sectionsWithOverflow.push({ index: i, tableClass: sections[i].classList[0] })
+                }
+            }
+
+            for (const section of sectionsWithOverflow) {
+                let sourceSection = null
+                let isSourceSectionExisting = false
+
+                if (sections[section.index + 1] && sections[section.index + 1].classList[0] === section.tableClass) {
+                    sourceSection = sections[section.index + 1]
+                    isSourceSectionExisting = true
+                } else {
+                    if (section.tableClass === 'plasticMaterials') {
+                        sourceSection = document.createElement('section')
+                        sourceSection.classList.add(section.tableClass, 'rest-rows')
+                        sourceSection.appendChild(sections[section.index].querySelector('header').cloneNode(true))
+                        const sourceSectionTable = document.createElement('table')
+                        sourceSectionTable.classList.add('plasticMaterials', 'products')
+                        sourceSectionTable.appendChild(document.createElement('tbody'))
+                        sourceSection.appendChild(sourceSectionTable)
+                        if (sections[section.index + 1]) {
+                            sections[section.index].parentElement.insertBefore(sourceSection, sections[section.index + 1])
+                        } else {
+                            sections[section.index].parentElement.appendChild(sourceSection)
+                        }
+                    }
+
+                    if (section.tableClass === 'chemicalMaterials') {
+                        sourceSection = document.createElement('section')
+                        sourceSection.classList.add(section.tableClass, 'rest-rows')
+                        sourceSection.appendChild(sections[section.index].querySelector('header').cloneNode(true))
+                        if (sections[section.index + 1]) {
+                            sections[section.index].parentElement.insertBefore(sourceSection, sections[section.index + 1])
+                        } else {
+                            sections[section.index].parentElement.appendChild(sourceSection)
+                        }
+                    }
+                }
+
+                if (sections[section.index].classList[0] === 'plasticMaterials') {
+                    while (sections[section.index].scrollHeight > sections[section.index].clientHeight) {
+                        const sectionTBody = sections[section.index].querySelector('tbody')
+                        const removingRow = sectionTBody.children[sectionTBody.children.length - 1]
+                        const removingRowClone = removingRow.cloneNode(true)
+                        if (isSourceSectionExisting) {
+                            sourceSection.querySelector('tbody').prepend(removingRowClone)
+                        } else {
+                            sourceSection.querySelector('tbody').appendChild(removingRowClone)
+                        }
+                        removingRow.remove()
+                    }
+                }
+
+                if (sections[section.index].classList[0] === 'chemicalMaterials') {
+                    let current = false
+                    while (sections[section.index].scrollHeight > sections[section.index].clientHeight) {
+                        const prev = sections[section.index].previousElementSibling
+                        if (prev && prev.classList[0] === 'chemicalMaterials') {
+                            if (prev.scrollHeight <= prev.clientHeight) {
+                                const children = sections[section.index].querySelectorAll('table')
+                                children.forEach((node) => {
+                                    if (node.classList.contains('current')) {
+                                        node.classList.remove('current')
+                                    }
+                                    if (!node.classList.contains('prev')) {
+                                        node.classList.add('prev')
+                                    }
+                                })
+                            }
+                        }
+                        const tables = sections[section.index].querySelectorAll('table')
+                        if (tables && tables.length) {
+                            const table = tables[tables.length - 1]
+                            const tableTHead = table.querySelector('thead')
+                            const tableTBody = table.querySelector('tbody')
+                            const tableTBodyChildren = tableTBody.children
+                            // debugger
+                            if (tableTBodyChildren && tableTBodyChildren.length) {
+                                const tr = tableTBodyChildren[tableTBodyChildren.length - 1]
+                                const trClone = tr.cloneNode(true)
+                                if (current) {
+                                    const currentTbody = document.querySelector('.current').firstElementChild
+                                    currentTbody.prepend(trClone)
+                                } else {
+                                    const currentTable = document.createElement('table')
+                                    currentTable.classList.add('chemicalMaterials', 'current')
+                                    const currentTbody = document.createElement('tbody')
+                                    currentTbody.prepend(trClone)
+                                    currentTable.appendChild(currentTbody)
+                                    const afterCurrentTable = sourceSection.querySelector('.prev')
+                                    if (sourceSection.contains(afterCurrentTable)) {
+                                        sourceSection.insertBefore(currentTable, afterCurrentTable)
+                                    } else {
+                                        sourceSection.appendChild(currentTable)
+                                    }
+                                    current = true
+                                }
+                                tr.remove()
+                            } else {
+                                if (current) {
+                                    const tableTHeadClone = tableTHead.cloneNode(true)
+                                    const currentTable = document.querySelector('.current')
+                                    currentTable.prepend(tableTHeadClone)
+                                    tableTHead.remove()
+                                    tableTBody.remove()
+                                    table.remove()
+                                    current = false
+                                    document.querySelector('.current').classList.add('prev')
+                                    document.querySelector('.current').classList.remove('current')
+                                }
+                            }
+                        }
+                    }
+                }
+
+                if (sourceSection && !isSourceSectionExisting) {
+                    reverseChildren(sourceSection.querySelector('tbody'))
+                }
+            }
+            if (sectionsWithOverflow.length) {
+                pagePagination()
+            } else {
+                return
+            }
+        }
+
+        fullCheck()
+        // Форматирование стилей документа перед печатью
+        window.addEventListener('beforeprint', fullCheck)
+    })
+</script>
+</body>
+</html>

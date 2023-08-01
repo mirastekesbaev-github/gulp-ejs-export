@@ -1,0 +1,5448 @@
+{
+  "encoders": [
+    {
+      "name": "plasticMaterials",
+      "content": [
+        {
+          "accountCode": "FPP021001",
+          "name": "Система диспенсерная Avrora 3 л"
+        },
+        {
+          "accountCode": "FPP021002",
+          "name": "Система диспенсерная Avrora 2,3 л"
+        },
+        {
+          "accountCode": "FPP022001",
+          "name": "Ведро‐диспенсер Avrora 3 л"
+        },
+        {
+          "accountCode": "FPP022002",
+          "name": "Ведро‐диспенсер Avrora 2,3 л"
+        },
+        {
+          "accountCode": "FPP023001",
+          "name": "Рулон салфеток Avrora No119"
+        },
+        {
+          "accountCode": "FPP024001",
+          "name": "Крышка‐иглосъемник"
+        },
+        {
+          "accountCode": "FPP025001",
+          "name": "Дозатор локтевой AVRORA Pro"
+        },
+        {
+          "accountCode": "FPP026001",
+          "name": "Картридж для дозатора локтевого (D750‐HDPE‐0000 и CP‐AA1000‐9003)"
+        },
+        {
+          "accountCode": "FPP027001",
+          "name": "Картридж для дозатора локтевого (D750/730‐HDPE‐0000‐031 и CP‐AA1000‐9003)"
+        },
+        {
+          "accountCode": "FPP027002",
+          "name": "Картридж для дозатора локтевого (D750/730‐HDPE‐0000‐032 и CP‐AA1000‐9003)"
+        },
+        {
+          "accountCode": "FPP027003",
+          "name": "Картридж для дозатора локтевого (D750/730‐HDPE‐0000‐033 и CP‐AA1000‐9003)"
+        },
+        {
+          "accountCode": "FPP027004",
+          "name": "Картридж для дозатора локтевого (D750/730‐HDPE‐0000‐111 и CP‐AA1000‐9003)"
+        },
+        {
+          "accountCode": "FPP027005",
+          "name": "Картридж для дозатора локтевого (D750/730‐HDPE‐0000‐112 и CP‐AA1000‐9003)"
+        },
+        {
+          "accountCode": "FPP027006",
+          "name": "Картридж для дозатора локтевого (D750/730‐HDPE‐0000‐115 и CP‐AA1000‐9003)"
+        },
+        {
+          "accountCode": "FPP027007",
+          "name": "Картридж для дозатора локтевого (D750/730‐HDPE‐0000‐121 и CP‐AA1000‐9003)"
+        },
+        {
+          "accountCode": "FPP027008",
+          "name": "Картридж для дозатора локтевого (D750/730‐HDPE‐0000‐151 и CP‐AA1000‐9003)"
+        },
+        {
+          "accountCode": "FPP027009",
+          "name": "Картридж для дозатора локтевого (D750/730‐HDPE‐0000‐181 и CP‐AA1000‐9003)"
+        },
+        {
+          "accountCode": "FPP027010",
+          "name": "Картридж для дозатора локтевого (D750/730‐HDPE‐0000‐182 и CP‐AA1000‐9003)"
+        },
+        {
+          "accountCode": "FPP027011",
+          "name": "Картридж для дозатора локтевого (D750/730‐HDPE‐0000‐441 и CP‐AA1000‐9003)"
+        },
+        {
+          "accountCode": "FPP027012",
+          "name": "Картридж для дозатора локтевого (D750/730‐HDPE‐0000‐451 и CP‐AA1000‐9003)"
+        },
+        {
+          "accountCode": "FPP027013",
+          "name": "Картридж для дозатора локтевого (D750/730‐HDPE‐0000‐452 и CP‐AA1000‐9003)"
+        },
+        {
+          "accountCode": "FPP027014",
+          "name": "Картридж для дозатора локтевого (D750/730‐HDPE‐0000‐461 и CP‐AA1000‐9003)"
+        },
+        {
+          "accountCode": "FPP027015",
+          "name": "Картридж для дозатора локтевого (D750/730‐HDPE‐1028‐452 и CP‐AA1000‐9003)"
+        },
+        {
+          "accountCode": "FPP027016",
+          "name": "Картридж для дозатора локтевого (D750/730‐HDPE‐1028‐181 и CP‐AA1000‐9003)"
+        }
+      ]
+    },
+    {
+      "name": "chemicalMaterials",
+      "content": [
+        {
+          "productGroupName": "FP793",
+          "productCode": "«Washer-G» Средство для мытья стекол с ароматом лимона",
+          "products": [
+            {
+              "name": "«Washer‐G» Средство для мытья стёкол с ароматом лимона",
+              "accountCode": "FP793001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Триггер-распылитель без красителя, d-28 мм, l-245 мм\nдля тары H500",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Триггер-распылитель без красителя, d-28 мм, l-245 мм\r\nдля тары H500",
+                "code": "TRS-28-245-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP841",
+          "productCode": "«AVRORA COSMETICS» Жидкое мыло «TROPICAL COCKTAIL» Антибактериальное «Жемчуг и цветы апельсина»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Жидкое мыло «TROPICAL COCKTAIL» Антибактериальное «Жемчуг и цветы апельсина»",
+              "accountCode": "FP841001",
+              "volume": {
+                "value": 0.37,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 370 мл без красителя прозрачный с нанесением под 841 продукт",
+                "code": "C370-PET-0000T-841",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-24 мм, l-93 мм\r\n для C350/370",
+                "code": "PD-24-93-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP113",
+          "productCode": "Средство дезинфицирующее «Акмасепт»",
+          "products": [
+            {
+              "name": "Средство дезинфицирующее «Акмасепт»",
+              "accountCode": "FP113004",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-160 мм\r\nдля тары Q1000/E825",
+                "code": "PD-28-160-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "Средство дезинфицирующее «Акмасепт»",
+              "accountCode": "FP113005",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона Р5000 cap транспортно-синяя",
+                "code": "CP/C-P5000-5017",
+                "color": "-"
+              }
+            },
+            {
+              "name": "Средство дезинфицирующее «Акмасепт»",
+              "accountCode": "FP113003",
+              "volume": {
+                "value": 0.73,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 800 мл, с номинальным объемом 730 мл, без красителя прозрачный, с нанесением под 113 продукт",
+                "code": "D800/730-PET-0000T-113",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона AS1000/АА1000/АВ500 белая",
+                "code": "CP-AS1000-9003",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP118",
+          "productCode": "Средство дезинфицирующее «Аласепт»",
+          "products": [
+            {
+              "name": "Средство дезинфицирующее «Аласепт»",
+              "accountCode": "FP118007",
+              "volume": {
+                "value": 0.73,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP181",
+          "productCode": "Средство дезинфицирующее «Альфапирокс»",
+          "products": [
+            {
+              "name": "Средство дезинфицирующее «Альфапирокс»",
+              "accountCode": "FP181011",
+              "volume": {
+                "value": 0.05,
+                "unit": "-"
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл транспортный белый непрозрачный",
+                "code": "P50-PET-9016O",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-распылитель без красителя, d-20 мм, l-66 мм\r\nдля тары P50",
+                "code": "PS-20-66-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP332",
+          "productCode": "Средство дезинфицирующее «Алмадез-Плюс»",
+          "products": [
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Печёное яблоко»",
+              "accountCode": "-",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP511",
+          "productCode": "Концентрат моющего средства «Анертлайн»",
+          "products": [
+            {
+              "name": "Концентрат моющего средства «Анертлайн»",
+              "accountCode": "FP511003",
+              "volume": {
+                "value": 20,
+                "unit": "-"
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP600",
+          "productCode": "«EFFECT» Универсальный спрей для стёкол «Горная свежесть»",
+          "products": [
+            {
+              "name": "«EFFECT» Универсальный спрей для стёкол «Горная свежесть»",
+              "accountCode": "FP600001",
+              "volume": {
+                "value": 0.52,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Универсальный спрей для стёкол «Горная свежесть»",
+              "accountCode": "FP600003",
+              "volume": {
+                "value": 0.825,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Универсальный спрей для стёкол «Горная свежесть» (сменная бутылка)",
+              "accountCode": "FP600004",
+              "volume": {
+                "value": 0.825,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Универсальный спрей для стёкол «Горная свежесть»",
+              "accountCode": "FP600005",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 500 мл без красителя прозрачный с нанесением под 600 продукт",
+                "code": "H500-PET-0000T-600",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Триггер-распылитель без красителя, d-28 мм, l-245 мм\r\nдля тары H500",
+                "code": "TRS-28-245-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP601",
+          "productCode": "«EFFECT» Универсальный спрей для стёкол «Цветок сирени»",
+          "products": [
+            {
+              "name": "«EFFECT» Универсальный спрей для стёкол «Цветок сирени»",
+              "accountCode": "FP601003",
+              "volume": {
+                "value": 0.825,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Универсальный спрей для стёкол «Цветок сирени»",
+              "accountCode": "FP601001",
+              "volume": {
+                "value": 0.52,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP602",
+          "productCode": "«EFFECT» Универсальный спрей для стёкол «Спелая вишня»",
+          "products": [
+            {
+              "name": "«EFFECT» Универсальный спрей для стёкол «Спелая вишня»",
+              "accountCode": "FP602005",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Универсальный спрей для стёкол «Спелая вишня»",
+              "accountCode": "FP602003",
+              "volume": {
+                "value": 0.825,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Универсальный спрей для стёкол «Спелая вишня»",
+              "accountCode": "FP602001",
+              "volume": {
+                "value": 0.52,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP603",
+          "productCode": "«EFFECT» Универсальный спрей для стёкол «Лимонная свежесть»",
+          "products": [
+            {
+              "name": "«EFFECT» Универсальный спрей для стёкол «Лимонная свежесть»",
+              "accountCode": "FP603003",
+              "volume": {
+                "value": 0.825,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Универсальный спрей для стёкол «Лимонная свежесть»",
+              "accountCode": "FP603005",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 500 мл без красителя прозрачный с нанесением под 603 продукт",
+                "code": "H500-PET-0000T-603",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Триггер-распылитель без красителя, d-28 мм, l-245 мм\r\nдля тары H500",
+                "code": "TRS-28-245-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Универсальный спрей для стёкол «Лимонная свежесть» (сменная бутылка)",
+              "accountCode": "FP603004",
+              "volume": {
+                "value": 0.825,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Универсальный спрей для стёкол «Лимонная свежесть»",
+              "accountCode": "FP603001",
+              "volume": {
+                "value": 0.52,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP610",
+          "productCode": "«EFFECT» Гель для мытья посуды «Печёное яблоко»",
+          "products": [
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Печёное яблоко»",
+              "accountCode": "FP610005",
+              "volume": {
+                "value": 30,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Печёное яблоко»",
+              "accountCode": "FP610006",
+              "volume": {
+                "value": 0.45,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Печёное яблоко»",
+              "accountCode": "FP610003",
+              "volume": {
+                "value": 0.45,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-135 мм\r\nдля тары E500",
+                "code": "PD-28-135-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Печёное яблоко»",
+              "accountCode": "FP610001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Печёное яблоко»",
+              "accountCode": "FP610002",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Печёное яблоко»",
+              "accountCode": "FP610004",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л сигнальный красный непрозрачный с нанесением под 610 продукт",
+                "code": "Q1000-PET-3001O-610",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP611",
+          "productCode": "«EFFECT» Гель для мытья посуды «Мята и лайм»",
+          "products": [
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Мята и лайм»",
+              "accountCode": "FP611006",
+              "volume": {
+                "value": 0.45,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Мята и лайм»",
+              "accountCode": "FP611001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Мята и лайм»",
+              "accountCode": "FP611003",
+              "volume": {
+                "value": 0.45,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-135 мм\r\nдля тары E500",
+                "code": "PD-28-135-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Мята и лайм»",
+              "accountCode": "FP611004",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л папоротниково-зелёный непрозрачный с нанесением под 611 продукт",
+                "code": "Q1000-PET-6025O-611",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Мята и лайм»",
+              "accountCode": "FP611002",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Мята и лайм»",
+              "accountCode": "FP611005",
+              "volume": {
+                "value": 30,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP612",
+          "productCode": "«EFFECT» Гель для мытья посуды «Лимонная долька»",
+          "products": [
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Лимонная долька»",
+              "accountCode": "FP612001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Лимонная долька»",
+              "accountCode": "FP612002",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP613",
+          "productCode": "«EFFECT» Гель для мытья посуды «Сочный грейпфрут»",
+          "products": [
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Сочный грейпфрут»",
+              "accountCode": "FP613002",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP614",
+          "productCode": "«EFFECT» Гель для мытья посуды «Ромашка и олива»",
+          "products": [
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Ромашка и олива»",
+              "accountCode": "FP614001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 500 мл без красителя прозрачный с нанесением под 614 продукт",
+                "code": "D500-PET-0000T-614",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-148 мм",
+                "code": "PD-28-148-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Ромашка и олива»",
+              "accountCode": "FP614002",
+              "volume": {
+                "value": 0.8,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP615",
+          "productCode": "«EFFECT» Гель для мытья посуды «Алоэ вера и белый чай»",
+          "products": [
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Алоэ вера и белый чай»",
+              "accountCode": "FP615003",
+              "volume": {
+                "value": 0.45,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Алоэ вера и белый чай»",
+              "accountCode": "FP615001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 500 мл без красителя прозрачный с нанесением под 615 продукт",
+                "code": "D500-PET-0000T-615",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-148 мм",
+                "code": "PD-28-148-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Алоэ вера и белый чай»",
+              "accountCode": "FP615002",
+              "volume": {
+                "value": 0.8,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP616",
+          "productCode": "«EFFECT» Гель для мытья посуды «Спелое манго»",
+          "products": [
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Спелое манго»",
+              "accountCode": "FP616001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 500 мл без красителя прозрачный с нанесением под 616 продукт",
+                "code": "D500-PET-0000T-616",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-148 мм",
+                "code": "PD-28-148-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Спелое манго»",
+              "accountCode": "FP616003",
+              "volume": {
+                "value": 0.45,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Спелое манго»",
+              "accountCode": "FP616002",
+              "volume": {
+                "value": 0.8,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP617",
+          "productCode": "«EFFECT» Гель для мытья посуды «Черника со сливками»",
+          "products": [
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Черника со сливками»",
+              "accountCode": "FP617001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 500 мл без красителя прозрачный с нанесением под 617 продукт",
+                "code": "D500-PET-0000T-617",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-148 мм",
+                "code": "PD-28-148-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель для мытья посуды «Черника со сливками»",
+              "accountCode": "FP617002",
+              "volume": {
+                "value": 0.8,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP620",
+          "productCode": "««EFFECT»Спрей для очистки акриловых ванн, душевых кабин, джакузи «Сочное яблоко»",
+          "products": [
+            {
+              "name": "«EFFECT» Спрей для очистки акриловых ванн, душевых кабин, джакузи «Сочное яблоко»",
+              "accountCode": "FP620003",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Спрей для очистки акриловых ванн, душевых кабин, джакузи «Сочное яблоко»",
+              "accountCode": "FP620005",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Триггер-распылитель без красителя, d-28 мм, l-245 мм\r\nдля тары H500",
+                "code": "TRS-28-245-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Спрей для очистки акриловых ванн, душевых кабин, джакузи «Сочное яблоко»",
+              "accountCode": "FP620001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP621",
+          "productCode": "«EFFECT» Универсальный спрей для кафеля, смесителей и пластика «Морская волна»",
+          "products": [
+            {
+              "name": "«EFFECT» Универсальный спрей для кафеля, смесителей и пластика «Морская волна»",
+              "accountCode": "FP621003",
+              "volume": {
+                "value": 0.825,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP622",
+          "productCode": "«EFFECT» Универсальный спрей для кафеля, смесителей и пластика «Цитрусовая свежесть»",
+          "products": [
+            {
+              "name": "«EFFECT» Универсальный спрей для кафеля, смесителей и пластика «Цитрусовая свежесть»",
+              "accountCode": "FP622003",
+              "volume": {
+                "value": 0.825,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP630",
+          "productCode": "«EFFECT» Чистящий спрей для духовок, грилей, жаровых шкафов «Active foam»",
+          "products": [
+            {
+              "name": "«EFFECT» Чистящий спрей для духовок, грилей, жаровых шкафов «Active foam»",
+              "accountCode": "FP630007",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Чистящий спрей для духовок, грилей, жаровых шкафов «Active foam»",
+              "accountCode": "FP630001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 500 мл шоколадно-коричневый с нанесением под 630 продукт",
+                "code": "E500-HDPE-8017-630",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Триггер-распылитель без красителя, d-28 мм, l-190 мм\r\n для тары E500/520",
+                "code": "TRS-28-190-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Чистящий спрей для духовок, грилей, жаровых шкафов «Active foam»",
+              "accountCode": "FP630003",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP631",
+          "productCode": "«EFFECT» Универсальный спрей для кухонных поверхностей «Виноград и мёд»",
+          "products": [
+            {
+              "name": "«EFFECT» Универсальный спрей для кухонных поверхностей «Виноград и мёд»",
+              "accountCode": "FP631003",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP632",
+          "productCode": "«EFFECT» Универсальный спрей для кухонных поверхностей «Цитрус микс»",
+          "products": [
+            {
+              "name": "«EFFECT» Универсальный спрей для кухонных поверхностей «Цитрус микс»",
+              "accountCode": "FP632003",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP633",
+          "productCode": "«EFFECT» Гель чистящий для кухонных плит, духовок и казанов «Антижир»",
+          "products": [
+            {
+              "name": "«EFFECT» Гель чистящий для кухонных плит, духовок и казанов «Антижир»",
+              "accountCode": "FP633001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 500 мл шоколадно-коричневый с нанесением под 633 продукт",
+                "code": "E500-HDPE-8017-633",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Гель чистящий для кухонных плит, духовок и казанов «Антижир»",
+              "accountCode": "FP633005",
+              "volume": {
+                "value": 30,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP634",
+          "productCode": "«Всё в дом» Чистящий спрей для духовок, грилей, жаровых шкафов",
+          "products": [
+            {
+              "name": "«Всё в дом» Чистящий спрей для духовок, грилей, жаровых шкафов",
+              "accountCode": "FP634001",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 750 мл чёрный",
+                "code": "AF750-HDPE-9004",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Триггер-распылитель без красителя, d-28 мм, l-260 мм\r\nдля тары AF750",
+                "code": "TRS-28-260-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP640",
+          "productCode": "«EFFECT» Cпрей для чистки ковров, ковролина и мягкой мебели «Цветочная поляна»",
+          "products": [
+            {
+              "name": "«EFFECT» Cпрей для чистки ковров, ковролина и мягкой мебели «Цветочная поляна»",
+              "accountCode": "FP640001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 500 мл малиново-красный с нанесением под 640 продукт",
+                "code": "E500-HDPE-3027-640",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Триггер-распылитель без красителя, d-28 мм, l-190 мм\r\n для тары E500/520",
+                "code": "TRS-28-190-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP641",
+          "productCode": "«EFFECT» Пятновыводитель «Альпийский луг»",
+          "products": [
+            {
+              "name": "«EFFECT» Пятновыводитель «Альпийский луг»",
+              "accountCode": "FP641001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 500 мл транспортный белый с нанесением под 641 продукт",
+                "code": "E500-HDPE-9016-641",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Триггер-распылитель без красителя, d-28 мм, l-190 мм\r\n для тары E500/520",
+                "code": "TRS-28-190-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP642",
+          "productCode": "«EFFECT» Таблетки для мытья посуды в посудомоечных машинах «AII IN 1»",
+          "products": [
+            {
+              "name": "«EFFECT» Таблетки для мытья посуды в посудомоечных машинах «AII IN 1»",
+              "accountCode": "FP642004",
+              "volume": {
+                "value": 120,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Ведро 3 л белое",
+                "code": "V3-PP-9003",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Таблетки для мытья посуды в посудомоечных машинах «AII IN 1»",
+              "accountCode": "FP642003",
+              "volume": {
+                "value": 55,
+                "unit": "уп."
+              },
+              "consumerContainer": {
+                "name": "Пакет пластиковый STAND UP ZIPLOCK BAG непрозрачный с нанесением под 642003 продукт, 260×200×90",
+                "code": "PB-STANDUPZIPLOCKO-642003",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Таблетки для мытья посуды в посудомоечных машинах «AII IN 1»",
+              "accountCode": "FP642002",
+              "volume": {
+                "value": 20,
+                "unit": "уп."
+              },
+              "consumerContainer": {
+                "name": "Пакет пластиковый STAND UP ZIPLOCK BAG непрозрачный с нанесением под 642002 продукт, 230×170×90",
+                "code": "PB-STANDUPZIPLOCKO-642002",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Таблетки для мытья посуды в посудомоечных машинах «AII IN 1»",
+              "accountCode": "FP642001",
+              "volume": {
+                "value": 10,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Пакет пластиковый STAND UP ZIPLOCK BAG непрозрачный с нанесением под 642001 продукт, 220×140×70",
+                "code": "PB-STANDUPZIPLOCKO-642001",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP643",
+          "productCode": "«EFFECT» Соль специальная для посудомоечных машин",
+          "products": [
+            {
+              "name": "«EFFECT» Соль специальная для посудомоечных машин",
+              "accountCode": "FP643001",
+              "volume": {
+                "value": 1.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Пакет пластиковый STAND UP ZIPLOCK BAG непрозрачный с нанесением под 643001 продукт, 260×200×90",
+                "code": "PB-STANDUPZIPLOCKO-643001",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT» Соль специальная для посудомоечных машин",
+              "accountCode": "FP643002",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP670",
+          "productCode": "«EFFECT PROFIT» Гель для мытья посуды «Лимонная долька»",
+          "products": [
+            {
+              "name": "«EFFECT PROFIT» Гель для мытья посуды «Лимонная долька»",
+              "accountCode": "FP670007",
+              "volume": {
+                "value": 0.45,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFIT» Гель для мытья посуды «Лимонная долька»",
+              "accountCode": "FP670002",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 800 мл, с номинальным объемом 750 мл, желтая сера непрозрачный с нанесением под 670 продукт",
+                "code": "D800/750-PET-1016O-670",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор графитно‐черный, d-28 мм, l-188 мм",
+                "code": "PD-28-188-9011",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFIT» Гель для мытья посуды «Лимонная долька»",
+              "accountCode": "FP670004",
+              "volume": {
+                "value": 0.66,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 660 мл жёлтая сера непрозрачный с нанесением под 670 продукт",
+                "code": "D660-PET-1016O-670",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор графитно‐черный, d-28 мм, l-188 мм",
+                "code": "PD-28-188-9011",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFIT» Гель для мытья посуды «Лимонная долька»",
+              "accountCode": "FP670003",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л дынно-жёлтый непрозрачный с нанесением под 670 продукт",
+                "code": "Q1000-PET-1016O-670",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона N500/750 графитно-чёрная",
+                "code": "CP-N500/750-PP-9011",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFIT» Гель для мытья посуды «Лимонная долька»",
+              "accountCode": "FP670001",
+              "volume": {
+                "value": 0.45,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор графитно‐черный, d-28 мм, l-135 мм",
+                "code": "PD-28-135-9011",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFIT» Гель для мытья посуды «Лимонная долька»",
+              "accountCode": "FP670006",
+              "volume": {
+                "value": 0.45,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP671",
+          "productCode": "«EFFECT PROFIT» Гель для мытья посуды «Сочный грейпфрут»",
+          "products": [
+            {
+              "name": "«EFFECT PROFIT» Гель для мытья посуды «Сочный грейпфрут»",
+              "accountCode": "FP671007",
+              "volume": {
+                "value": 0.45,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFIT» Гель для мытья посуды «Сочный грейпфрут»",
+              "accountCode": "FP671001",
+              "volume": {
+                "value": 0.45,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Краситель Баско П55103/25‐ПТ, (P)",
+                "code": "MP12401004",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор графитно‐черный, d-28 мм, l-135 мм",
+                "code": "PD-28-135-9011",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFIT» Гель для мытья посуды «Сочный грейпфрут»",
+              "accountCode": "FP671002",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Краситель Баско П55103/25‐ПТ, (P)",
+                "code": "MP12401004",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор графитно‐черный, d-28 мм, l-188 мм",
+                "code": "PD-28-188-9011",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFIT» Гель для мытья посуды «Сочный грейпфрут»",
+              "accountCode": "FP671003",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Краситель Баско П55103/25‐ПТ, (P)",
+                "code": "MP12401004",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона N500/750 графитно-чёрная",
+                "code": "CP-N500/750-PP-9011",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFIT» Гель для мытья посуды «Сочный грейпфрут»",
+              "accountCode": "FP671004",
+              "volume": {
+                "value": 0.66,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Краситель Баско П55103/25‐ПТ, (P)",
+                "code": "MP12401004",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор графитно‐черный, d-28 мм, l-188 мм",
+                "code": "PD-28-188-9011",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFIT» Гель для мытья посуды «Сочный грейпфрут»",
+              "accountCode": "FP671005",
+              "volume": {
+                "value": 30,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFIT» Гель для мытья посуды «Сочный грейпфрут»",
+              "accountCode": "FP671006",
+              "volume": {
+                "value": 0.45,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP690",
+          "productCode": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Лимон»",
+          "products": [
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Лимон»",
+              "accountCode": "FP690005",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Лимон»",
+              "accountCode": "FP690003",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Лимон»",
+              "accountCode": "FP690002",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Лимон»",
+              "accountCode": "FP690001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Лимон»",
+              "accountCode": "FP690004",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP691",
+          "productCode": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Яблоко»",
+          "products": [
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Яблоко»",
+              "accountCode": "FP691004",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона Р5000 cap транспортно-синяя",
+                "code": "CP/C-P5000-5017",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Яблоко»",
+              "accountCode": "FP691005",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 500 мл транспортный белый непрозрачный с нанесением контрэтикетки под 691 продукт",
+                "code": "N500-PET-9016O-691",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Яблоко»",
+              "accountCode": "FP691003",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Яблоко»",
+              "accountCode": "FP691001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Яблоко»",
+              "accountCode": "FP691002",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP692",
+          "productCode": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Фиалка»",
+          "products": [
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Фиалка»",
+              "accountCode": "FP692002",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Фиалка»",
+              "accountCode": "FP692001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Фиалка»",
+              "accountCode": "FP692004",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л транспортный белый непрозрачный с нанесением под 692 продукт",
+                "code": "Q1000-PET-9016O-692",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-160 мм\r\nдля тары Q1000/E825",
+                "code": "PD-28-160-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Фиалка»",
+              "accountCode": "FP692005",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона Р5000 cap транспортно-синяя",
+                "code": "CP/C-P5000-5017",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Гель для мытья посуды «Фиалка»",
+              "accountCode": "FP692003",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP693",
+          "productCode": "«ЧИСТАЯ КАСТРЮЛЬКА» Бальзам для мытья посуды «Малина»",
+          "products": [
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Бальзам для мытья посуды «Малина»",
+              "accountCode": "FP693001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Бальзам для мытья посуды «Малина»",
+              "accountCode": "FP693002",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP696",
+          "productCode": "«ЧИСТАЯ КАСТРЮЛЬКА» Лимон «Премиум» Гель для мытья посуды",
+          "products": [
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Лимон «Премиум» Гель для мытья посуды",
+              "accountCode": "FP696001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP697",
+          "productCode": "«ЧИСТАЯ КАСТРЮЛЬКА» Яблоко «Премиум» Гель для мытья посуды",
+          "products": [
+            {
+              "name": "«ЧИСТАЯ КАСТРЮЛЬКА» Яблоко «Премиум» Гель для мытья посуды",
+              "accountCode": "FP697001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP700",
+          "productCode": "«EFFECT PROFESSIONAL» Гель для прочистки сливных труб",
+          "products": [
+            {
+              "name": "«EFFECT PROFESSIONAL» Гель для прочистки сливных труб",
+              "accountCode": "FP700002",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFESSIONAL» Гель для прочистки сливных труб",
+              "accountCode": "FP700001",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л черный с нанесением под 700 продукт",
+                "code": "K1000-HDPE-9004-700",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона K1000 двухкомпонентная черная/без красителя",
+                "code": "CP-K1000-PP-9004/0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP701",
+          "productCode": "«EFFECT PROFESSIONAL» Гель чистящий для сантехники «Морской бриз»",
+          "products": [
+            {
+              "name": "«EFFECT PROFESSIONAL» Гель чистящий для сантехники «Морской бриз»",
+              "accountCode": "FP701002",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л перламутровый тёмно-серый с нанесением под 701 продукт",
+                "code": "K1000-HDPE-9023-701",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона K1000 двухкомпонентная перламутрово-тёмно-серая/без красителя",
+                "code": "CP-K1000-PP-9023/0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFESSIONAL» Гель чистящий для сантехники «Морской бриз»",
+              "accountCode": "FP701001",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP702",
+          "productCode": "«EFFECT PROFESSIONAL» Гель чистящий для сантехники «Красный грейпфрут»",
+          "products": [
+            {
+              "name": "«EFFECT PROFESSIONAL» Гель чистящий для сантехники «Красный грейпфрут»",
+              "accountCode": "FP702001",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFESSIONAL» Гель чистящий для сантехники «Красный грейпфрут»",
+              "accountCode": "FP702002",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л перламутровый тёмно-серый с нанесением под 702 продукт",
+                "code": "K1000-HDPE-9023-702",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона K1000 двухкомпонентная перламутрово-тёмно-серая/без красителя",
+                "code": "CP-K1000-PP-9023/0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP703",
+          "productCode": "«EFFECT PROFESSIONAL» Гель чистящий для унитазов «Лимонная свежесть»",
+          "products": [
+            {
+              "name": "«EFFECT PROFESSIONAL» Гель чистящий для унитазов «Лимонная свежесть»",
+              "accountCode": "FP703003",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л черный с нанесением под 703 продукт",
+                "code": "K1000-HDPE-9004-703",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона K1000 двухкомпонентная перламутрово-тёмно-серая/без красителя",
+                "code": "CP-K1000-PP-9023/0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFESSIONAL» Гель чистящий для унитазов «Лимонная свежесть»",
+              "accountCode": "FP703001",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л черный с нанесением под 703 продукт",
+                "code": "K1000-HDPE-9004-703",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона K1000 двухкомпонентная черная/без красителя",
+                "code": "CP-K1000-PP-9004/0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFESSIONAL» Гель чистящий для унитазов «Лимонная свежесть»",
+              "accountCode": "FP703002",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л перламутровый тёмно-серый с нанесением под 703 продукт",
+                "code": "K1000-HDPE-9023-703",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона K1000 двухкомпонентная перламутрово-тёмно-серая/без красителя",
+                "code": "CP-K1000-PP-9023/0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFESSIONAL» Гель чистящий для унитазов «Лимонная свежесть»",
+              "accountCode": "FP703004",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP704",
+          "productCode": "«EFFECT PROFESSIONAL» Гель чистящий для унитазов «Хвойная свежесть»",
+          "products": [
+            {
+              "name": "«EFFECT PROFESSIONAL» Гель чистящий для унитазов «Хвойная свежесть»",
+              "accountCode": "FP704002",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л, с номинальным объемом 750 мл,  перламутровый тёмно-серый с нанесением под 704 продукт",
+                "code": "K1000/750-HDPE-9023-704",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона K1000 двухкомпонентная перламутрово-тёмно-серая/без красителя",
+                "code": "CP-K1000-PP-9023/0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFESSIONAL» Гель чистящий для унитазов «Хвойная свежесть»",
+              "accountCode": "FP704003",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFESSIONAL» Гель чистящий для унитазов «Хвойная свежесть»",
+              "accountCode": "FP704004",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP710",
+          "productCode": "«EFFECT PROFESSIONAL» Концентрат для ковров, ковролина и мягкой мебели «Полевые цветы»",
+          "products": [
+            {
+              "name": "«EFFECT PROFESSIONAL» Концентрат для ковров, ковролина и мягкой мебели «Полевые цветы»",
+              "accountCode": "FP710002",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFESSIONAL» Концентрат для ковров, ковролина и мягкой мебели «Полевые цветы»",
+              "accountCode": "FP710001",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP711",
+          "productCode": "«EFFECT PROFESSIONAL» Концентрат для мытья пола и стен «Лайм и мята»",
+          "products": [
+            {
+              "name": "«EFFECT PROFESSIONAL» Концентрат для мытья пола и стен «Лайм и мята»",
+              "accountCode": "FP711002",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«EFFECT PROFESSIONAL» Концентрат для мытья пола и стен «Лайм и мята»",
+              "accountCode": "FP711001",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP712",
+          "productCode": "«EFFECT PROFESSIONAL» Концентрат для мытья пола и стен «Луговые травы»",
+          "products": [
+            {
+              "name": "«EFFECT PROFESSIONAL» Концентрат для мытья пола и стен «Луговые травы»",
+              "accountCode": "FP712001",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP794",
+          "productCode": "«Washer-F» Средство для мытья пола и стен с ароматом цветов",
+          "products": [
+            {
+              "name": "«Washer‐F» Средство для мытья пола и стен с ароматом цветов",
+              "accountCode": "FP794004",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«Washer‐F» Средство для мытья пола и стен с ароматом цветов",
+              "accountCode": "FP794002",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-160 мм\r\nдля тары Q1000/E825",
+                "code": "PD-28-160-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«Washer‐F» Средство для мытья пола и стен с ароматом цветов",
+              "accountCode": "FP794003",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона Р5000 cap транспортно-синяя",
+                "code": "CP/C-P5000-5017",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP795",
+          "productCode": "«Washer-F» Средство для мытья пола и стен с ароматом лимона",
+          "products": [
+            {
+              "name": "«Washer‐F» Средство для мытья пола и стен с ароматом лимона",
+              "accountCode": "FP795005",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л транспортный оранжевый непрозрачный с нанесением под 795 продукт",
+                "code": "Q1000-PET-2009O-795",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«Washer‐F» Средство для мытья пола и стен с ароматом лимона",
+              "accountCode": "FP795003",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона Р5000 cap транспортно-синяя",
+                "code": "CP/C-P5000-5017",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«Washer‐F» Средство для мытья пола и стен с ароматом лимона",
+              "accountCode": "FP795004",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Канистра 5 л белая",
+                "code": "B5-HDPE-9003",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для канистры B5 синяя",
+                "code": "CP-B5-5010",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP796",
+          "productCode": "«Washer-D» Гель для мытья посуды с ароматом яблока",
+          "products": [
+            {
+              "name": "«Washer‐D» Гель для мытья посуды с ароматом яблока",
+              "accountCode": "FP796006",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«Washer‐D» Гель для мытья посуды с ароматом яблока",
+              "accountCode": "FP796003",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона Р5000 cap транспортно-синяя",
+                "code": "CP/C-P5000-5017",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«Washer‐D» Гель для мытья посуды с ароматом яблока",
+              "accountCode": "FP796007",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«Washer‐D» Гель для мытья посуды с ароматом яблока",
+              "accountCode": "FP796005",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л сигнальный зелёный прозрачный с нанесением под 796 продукт",
+                "code": "Q1000-PET-6032T-796",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP797",
+          "productCode": "«Washer-D» Гель для мытья посуды с ароматом лимона",
+          "products": [
+            {
+              "name": "«Washer‐D» Гель для мытья посуды с ароматом лимона",
+              "accountCode": "FP797006",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«Washer‐D» Гель для мытья посуды с ароматом лимона",
+              "accountCode": "FP797003",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона Р5000 cap транспортно-синяя",
+                "code": "CP/C-P5000-5017",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«Washer‐D» Гель для мытья посуды с ароматом лимона",
+              "accountCode": "FP797005",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л жёлто-оранжевый прозрачный с нанесением под 797 продукт",
+                "code": "Q1000-PET-2000T-797",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«Washer‐D» Гель для мытья посуды с ароматом лимона",
+              "accountCode": "FP797007",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP798",
+          "productCode": "«Washer-H» Жидкое мыло с цветочным ароматом",
+          "products": [
+            {
+              "name": "«Washer‐H» Жидкое мыло с цветочным ароматом",
+              "accountCode": "FP798005",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л светло-ультрамариново‐синий прозрачный с нанесением под 798 продукт",
+                "code": "Q1000-PET-5002(0,3)T-798",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-160 мм\r\nдля тары Q1000/E825",
+                "code": "PD-28-160-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«Washer‐H» Жидкое мыло с цветочным ароматом",
+              "accountCode": "FP798003",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона Р5000 cap транспортно-синяя",
+                "code": "CP/C-P5000-5017",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«Washer‐H» Жидкое мыло с цветочным ароматом",
+              "accountCode": "FP798007",
+              "volume": {
+                "value": 30,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP799",
+          "productCode": "«Washer-H» Жидкое мыло с ягодным ароматом",
+          "products": [
+            {
+              "name": "«Washer‐H» Жидкое мыло с ягодным ароматом",
+              "accountCode": "FP799003",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона Р5000 cap транспортно-синяя",
+                "code": "CP/C-P5000-5017",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«Washer‐H» Жидкое мыло с ягодным ароматом",
+              "accountCode": "FP799007",
+              "volume": {
+                "value": 30,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«Washer‐H» Жидкое мыло с ягодным ароматом",
+              "accountCode": "FP799005",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л транспортный пурпурный прозрачный с нанесением под 799 продукт",
+                "code": "Q1000-PET-4006T-799",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-160 мм\r\nдля тары Q1000/E825",
+                "code": "PD-28-160-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP800",
+          "productCode": "Жидкое мыло ТМ «LOLI» «Green Tea»",
+          "products": [
+            {
+              "name": "Жидкое мыло «LOLI» «Green Tea»",
+              "accountCode": "FP800001",
+              "volume": {
+                "value": 0.37,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 370 мл сигнально-зелёный прозрачный с нанесением под 800 продукт",
+                "code": "C370-PET-6032T-800",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-24 мм, l-93 мм\r\n для C350/370",
+                "code": "PD-24-93-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP801",
+          "productCode": "Жидкое мыло ТМ «LOLI» «Wild Berry»",
+          "products": [
+            {
+              "name": "Жидкое мыло «LOLI» «Wild berry»",
+              "accountCode": "FP801001",
+              "volume": {
+                "value": 0.37,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 370 мл сигнальный синий прозрачный с нанесением под 801 продукт",
+                "code": "C370-PET-5005T-801",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-24 мм, l-93 мм\r\n для C350/370",
+                "code": "PD-24-93-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP802",
+          "productCode": "Жидкое мыло ТМ «LOLI» «Fruit Mix»",
+          "products": [
+            {
+              "name": "Жидкое мыло «LOLI» «Fruit Mix»",
+              "accountCode": "FP802001",
+              "volume": {
+                "value": 0.37,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 370 мл желто-оранжевый прозрачный с нанесением под 802 продукт",
+                "code": "C370-PET-2000T-802",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-24 мм, l-93 мм\r\n для C350/370",
+                "code": "PD-24-93-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP811",
+          "productCode": "«ЧИСТЫЕ РУЧКИ» Жидкое мыло «Ромашка»",
+          "products": [
+            {
+              "name": "«ЧИСТЫЕ РУЧКИ» Жидкое мыло «Ромашка»",
+              "accountCode": "FP811001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТЫЕ РУЧКИ» Жидкое мыло «Ромашка»",
+              "accountCode": "FP811004",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Канистра 5 л белая",
+                "code": "B5-HDPE-9003",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для канистры B5 синяя",
+                "code": "CP-B5-5010",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТЫЕ РУЧКИ» Жидкое мыло «Ромашка»",
+              "accountCode": "FP811002",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-160 мм\r\nдля тары Q1000/E825",
+                "code": "PD-28-160-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP812",
+          "productCode": "«МЫЛЬНАЯ ОПЕРА» Жидкое мыло «Лесная красавица»",
+          "products": [
+            {
+              "name": "«МЫЛЬНАЯ ОПЕРА» Жидкое мыло «Лесная красавица»",
+              "accountCode": "FP812001",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л ультрамариново‐синий прозрачный с нанесением под 812 продукт",
+                "code": "Q1000-PET-5002T-812",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-160 мм\r\nдля тары Q1000/E825",
+                "code": "PD-28-160-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP813",
+          "productCode": "«МЫЛЬНАЯ ОПЕРА» Жидкое мыло «Чайный рай»",
+          "products": [
+            {
+              "name": "«МЫЛЬНАЯ ОПЕРА» Жидкое мыло «Чайный рай»",
+              "accountCode": "FP813001",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л ультрамариново‐синий прозрачный с нанесением под 813 продукт",
+                "code": "Q1000-PET-5002T-813",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-160 мм\r\nдля тары Q1000/E825",
+                "code": "PD-28-160-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP814",
+          "productCode": "«МЫЛЬНАЯ ОПЕРА» Шампунь-гель для душа «Горная лаванда»",
+          "products": [
+            {
+              "name": "«МЫЛЬНАЯ ОПЕРА» Шампунь «Горная лаванда»",
+              "accountCode": "FP814001",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«МЫЛЬНАЯ ОПЕРА» Шампунь «Горная лаванда»",
+              "accountCode": "FP814002",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 270 мл ультрамариново-синий прозрачный с нанесением под 814 продукт",
+                "code": "G270-PET-5002T-814",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона G250/270 без красителя",
+                "code": "CP-G250/270-PP-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP815",
+          "productCode": "«МЫЛЬНАЯ ОПЕРА» Шампунь-гель для душа «Райский сад»",
+          "products": [
+            {
+              "name": "«МЫЛЬНАЯ ОПЕРА» Шампунь «Райский сад»",
+              "accountCode": "FP815001",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«МЫЛЬНАЯ ОПЕРА» Шампунь «Райский сад»",
+              "accountCode": "FP815002",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона G250/270 без красителя",
+                "code": "CP-G250/270-PP-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP820",
+          "productCode": "«AVRORA COSMETICS» Шампунь «HAIRDOC» Блеск и Защита цвета",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Шампунь «HAIRDOC» Блеск и Защита цвета",
+              "accountCode": "FP820001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP821",
+          "productCode": "«AVRORA COSMETICS» Бальзам-ополаскиватель «HAIRDOC» Блеск и Защита цвета",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Бальзам‐ополаскиватель «HAIRDOC» Блеск и Защита цвета",
+              "accountCode": "FP821001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP822",
+          "productCode": "«AVRORA COSMETICS» Шампунь «HAIRDOC» Питание и восстановление",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Шампунь «HAIRDOC» Питание и восстановление",
+              "accountCode": "FP822001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP823",
+          "productCode": "«AVRORA COSMETICS» Бальзам-ополаскиватель «HAIRDOC» Питание и восстановление",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Бальзам‐ополаскиватель «HAIRDOC» Питание и восстановление",
+              "accountCode": "FP823001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP824",
+          "productCode": "«AVRORA COSMETICS» Шампунь «HAIRDOC» Сила и объем",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Шампунь «HAIRDOC» Сила и объем",
+              "accountCode": "FP824001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP825",
+          "productCode": "«AVRORA COSMETICS» Бальзам-ополаскиватель «HAIRDOC» Сила и объем",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Бальзам‐ополаскиватель «HAIRDOC» Сила и объем",
+              "accountCode": "FP825001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP826",
+          "productCode": "«AVRORA COSMETICS» Шампунь «HAIRDOC» Против перхоти",
+          "products": [
+            {
+              "name": "-",
+              "accountCode": "FP826001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP827",
+          "productCode": "«AVRORA COSMETICS» Бальзам-ополаскиватель «HAIRDOC» Против перхоти",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» » Бальзам‐ополаскиватель «HAIRDOC» Против перхоти",
+              "accountCode": "FP827001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP830",
+          "productCode": "«AVRORA COSMETICS» Шампунь «TROPICAL COCKTAIL» для сухих и ослабленных волос «Олива и алоэ вера»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Шампунь «TROPICAL COCKTAIL» для сухих и ослабленных волос «Олива и алоэ вера»",
+              "accountCode": "FP830001",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«AVRORA COSMETICS» Шампунь «TROPICAL COCKTAIL» для сухих и ослабленных волос «Олива и алоэ вера»",
+              "accountCode": "FP830002",
+              "volume": {
+                "value": 0.53,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP831",
+          "productCode": "«AVRORA COSMETICS» Гель для душа «TROPICAL COCKTAIL» Увлажняющий «Олива и чайное дерево»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Гель для душа «TROPICAL COCKTAIL» Увлажняющий «Олива и чайное дерево»",
+              "accountCode": "FP831001",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP832",
+          "productCode": "«AVRORA COSMETICS» Жидкое мыло «TROPICAL COCKTAIL» Увлажняющее «Олива»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Жидкое мыло «TROPICAL COCKTAIL» Увлажняющее «Олива»",
+              "accountCode": "FP832001",
+              "volume": {
+                "value": 0.37,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-24 мм, l-93 мм\r\n для C350/370",
+                "code": "PD-24-93-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP833",
+          "productCode": "«AVRORA COSMETICS» Шампунь «TROPICAL COCKTAIL» для нормальных волос «Асаи и малина»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Шампунь «TROPICAL COCKTAIL» для нормальных волос «Асаи и малина»",
+              "accountCode": "FP833001",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«AVRORA COSMETICS» Шампунь «TROPICAL COCKTAIL» для нормальных волос «Асаи и малина»",
+              "accountCode": "FP833002",
+              "volume": {
+                "value": 0.53,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP834",
+          "productCode": "«AVRORA COSMETICS» Гель для душа «TROPICAL COCKTAIL» Массажный «Асаи и малина»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Гель для душа «TROPICAL COCKTAIL» Массажный «Асаи и малина»",
+              "accountCode": "FP834001",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 270 мл транспортный пурпурный прозрачный с нанесением под 834 продукт",
+                "code": "G270-PET-4006T-834",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона G250/270 без красителя",
+                "code": "CP-G250/270-PP-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP835",
+          "productCode": "«AVRORA COSMETICS» Жидкое мыло «TROPICAL COCKTAIL» Гигиеническое «Малина и инжир»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Жидкое мыло «TROPICAL COCKTAIL» Гигиеническое «Малина и инжир»",
+              "accountCode": "FP835001",
+              "volume": {
+                "value": 0.37,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 370 мл транспортный пурпурный прозрачный с нанесением под 835 продукт",
+                "code": "C370-PET-4006T-835",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-24 мм, l-93 мм\r\n для C350/370",
+                "code": "PD-24-93-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP836",
+          "productCode": "«AVRORA COSMETICS» Шампунь «TROPICAL COCKTAIL» Семейный для всех типов волос «Абрикос и шёлк»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Шампунь «TROPICAL COCKTAIL» Семейный для всех типов волос «Абрикос и шёлк»",
+              "accountCode": "FP836001",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 270 мл желто-оранжевый прозрачный с нанесением под 836 продукт",
+                "code": "G270-PET-2000T-836",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона G250/270 без красителя",
+                "code": "CP-G250/270-PP-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«AVRORA COSMETICS» Шампунь «TROPICAL COCKTAIL» Семейный для всех типов волос «Абрикос и шёлк»",
+              "accountCode": "FP836002",
+              "volume": {
+                "value": 0.53,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP837",
+          "productCode": "«AVRORA COSMETICS» Гель для душа «TROPICAL COCKTAIL» для всей семьи «Абрикос и авокадо»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Гель для душа «TROPICAL COCKTAIL» для всей семьи «Абрикос и авокадо»",
+              "accountCode": "FP837001",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 270 мл желто-оранжевый прозрачный с нанесением под 837 продукт",
+                "code": "G270-PET-2000T-837",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона G250/270 без красителя",
+                "code": "CP-G250/270-PP-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP838",
+          "productCode": "«AVRORA COSMETICS» Жидкое мыло «TROPICAL COCKTAIL» Семейное «Абрикос и манго»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Жидкое мыло «TROPICAL COCKTAIL» Семейное «Абрикос и манго»",
+              "accountCode": "FP838001",
+              "volume": {
+                "value": 0.37,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-24 мм, l-93 мм\r\n для C350/370",
+                "code": "PD-24-93-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP839",
+          "productCode": "«AVRORA COSMETICS» Шампунь «TROPICAL COCKTAIL» для жирных волос «Жемчуг и цветы апельсина»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Шампунь «TROPICAL COCKTAIL» для жирных волос «Жемчуг и цветы апельсина»",
+              "accountCode": "FP839002",
+              "volume": {
+                "value": 0.53,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«AVRORA COSMETICS» Шампунь «TROPICAL COCKTAIL» для жирных волос «Жемчуг и цветы апельсина»",
+              "accountCode": "FP839001",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP840",
+          "productCode": "«AVRORA COSMETICS» Гель для душа «TROPICAL COCKTAIL» Очищающий «Жемчуг и цветы апельсина»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Гель для душа «TROPICAL COCKTAIL» Очищающий «Жемчуг и цветы апельсина»",
+              "accountCode": "FP840001",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP842",
+          "productCode": "«AVRORA COSMETICS» Гель для душа «TROPICAL COCKTAIL» Тонизирующий «SPA-комплекс и люфа»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Гель для душа «TROPICAL COCKTAIL» Тонизирующий «SPA‐комплекс и люфа»",
+              "accountCode": "FP842001",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 270 мл ультрамариново-синий прозрачный с нанесением под 814 продукт",
+                "code": "G270-PET-5002T-814",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона G250/270 без красителя",
+                "code": "CP-G250/270-PP-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP843",
+          "productCode": "«AVRORA COSMETICS» Жидкое мыло «TROPICAL COCKTAIL» Ухаживающее «SPA-комплекс»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Жидкое мыло «TROPICAL COCKTAIL» Ухаживающее «SPA‐комплекс»",
+              "accountCode": "FP843001",
+              "volume": {
+                "value": 0.37,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 370 мл сигнальный синий прозрачный с нанесением под 843 продукт",
+                "code": "C370-PET-5005T-843",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-24 мм, l-93 мм\r\n для C350/370",
+                "code": "PD-24-93-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP845",
+          "productCode": "«AVRORA COSMETICS» Шампунь+гель для душа «EGO MAN» Антибактериальный",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Шампунь+гель для душа «EGO MAN» Антибактериальный",
+              "accountCode": "FP845001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP846",
+          "productCode": "«AVRORA COSMETICS» Шампунь+гель для душа «EGO MAN» Освежающий",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Шампунь+гель для душа «EGO MAN» Освежающий",
+              "accountCode": "FP846001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP847",
+          "productCode": "«AVRORA COSMETICS» Шампунь+гель для душа «EGO MAN» Увлажняющий",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Шампунь+гель для душа «EGO MAN» Увлажняющий",
+              "accountCode": "FP847001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP848",
+          "productCode": "«AVRORA COSMETICS» Гель для душа «EGO MAN» Восстанавливающий",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Гель для душа «EGO MAN» Восстанавливающий",
+              "accountCode": "FP848001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP849",
+          "productCode": "«AVRORA COSMETICS» Гель для душа «EGO MAN» Антибактериальный",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Гель для душа «EGO MAN» Антибактериальный",
+              "accountCode": "FP849001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP850",
+          "productCode": "«AVRORA COSMETICS» Крем-гель для душа «SMOOZY Коко-Мокко»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Крем‐гель для душа «SMOOZY Коко‐Мокко»",
+              "accountCode": "FP850001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 250 мл шоколадно-коричневый с нанесением под 850 продукт",
+                "code": "G250-HDPE-8017-850",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона G250/270 без красителя",
+                "code": "CP-G250/270-PP-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP851",
+          "productCode": "«AVRORA COSMETICS» Пена для ванн «SMOOZY Коко-Мокко»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Пена для ванн «SMOOZY Коко‐Мокко»",
+              "accountCode": "FP851001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP852",
+          "productCode": "«AVRORA COSMETICS» Крем-мыло «SMOOZY Коко-Мокко»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Крем‐мыло «SMOOZY Коко‐Мокко»",
+              "accountCode": "FP852001",
+              "volume": {
+                "value": 0.35,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 350 мл шоколадно-коричневый с нанесением под 852 продукт",
+                "code": "C350-HDPE-8017-852",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-24 мм, l-93 мм\r\n для C350/370",
+                "code": "PD-24-93-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP853",
+          "productCode": "«AVRORA COSMETICS» Крем-гель для душа «SMOOZY Дикая орхидея»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Крем‐гель для душа «SMOOZY Дикая орхидея»",
+              "accountCode": "FP853001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP854",
+          "productCode": "«AVRORA COSMETICS» Пена для ванн «SMOOZY Дикая орхидея»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Пена для ванн «SMOOZY Дикая орхидея»",
+              "accountCode": "FP854001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP855",
+          "productCode": "«AVRORA COSMETICS» Крем-мыло «SMOOZY Дикая орхидея»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Крем‐мыло «SMOOZY Дикая орхидея»",
+              "accountCode": "FP855001",
+              "volume": {
+                "value": 0.35,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP856",
+          "productCode": "«AVRORA COSMETICS» Крем-гель для душа «SMOOZY Мандариновый краш»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Крем‐гель для душа «SMOOZY Мандариновый краш»",
+              "accountCode": "FP856001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP857",
+          "productCode": "«AVRORA COSMETICS» Пена для ванн «SMOOZY Мандариновый краш»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Пена для ванн «SMOOZY Мандариновый краш»",
+              "accountCode": "FP857001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP858",
+          "productCode": "«AVRORA COSMETICS» Крем-мыло «SMOOZY Мандариновый краш»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Крем‐мыло «SMOOZY Мандариновый краш»",
+              "accountCode": "FP858003",
+              "volume": {
+                "value": 0.35,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 370 мл, транспортный оранжевый, непрозрачный с нанесением под 858 продукт",
+                "code": "C370-PET-2009O-858",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-24 мм, l-93 мм\r\n для C350/370",
+                "code": "PD-24-93-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP859",
+          "productCode": "«AVRORA COSMETICS» Крем-гель для душа «SMOOZY Манговый шейк»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Крем‐гель для душа «SMOOZY Манговый шейк»",
+              "accountCode": "FP859001",
+              "volume": {
+                "value": 0.25,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP866",
+          "productCode": "AKMASEPT NO PERFUME гель для рук антимикробный",
+          "products": [
+            {
+              "name": "AKMASEPT NO PERFUME гель для рук антимикробный",
+              "accountCode": "FP866016",
+              "volume": {
+                "value": 0.8,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME гель для рук антимикробный (СТМ «NORMAN»)",
+              "accountCode": "FP866011",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME гель для рук антимикробный",
+              "accountCode": "FP866002",
+              "volume": {
+                "value": 0.09,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 90 мл без красителя прозрачный",
+                "code": "P90-PET-0000T",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-распылитель без красителя, d-20 мм, l-79 мм\r\nдля тары P90",
+                "code": "PS-20-79-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME гель для рук антимикробный",
+              "accountCode": "FP866008",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME гель для рук антимикробный",
+              "accountCode": "FP866013",
+              "volume": {
+                "value": 0.003,
+                "unit": "-"
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME гель для рук антимикробный",
+              "accountCode": "FP866015",
+              "volume": {
+                "value": 80,
+                "unit": "-"
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME гель для рук антимикробный",
+              "accountCode": "FP866001",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME гель для рук антимикробный",
+              "accountCode": "FP866017",
+              "volume": {
+                "value": 20,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Стакан из картона однослойного с нанесением под 866017 продукт c крышкой в комплекте, \nv - 350 мл, h - 110 мм, d дна - 60 мм, d верха - 90 мм ",
+                "code": "CG350-110x60x90-866017",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP867",
+          "productCode": "AKMASEPT ALOE VERA гель для рук антимикробный",
+          "products": [
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный (NORMAN)",
+              "accountCode": "FP867004",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона P50/90 без красителя",
+                "code": "CP-P50/90-PP-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP867001",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный (СТМ «Greenwich»)",
+              "accountCode": "FP867008",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA гель для рук антимикробный",
+              "accountCode": "FP867002",
+              "volume": {
+                "value": 0.09,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP870",
+          "productCode": "AKMASEPT MINTY CHOCOLATE гель для рук антимикробный",
+          "products": [
+            {
+              "name": "AKMASEPT MINTY CHOCOLATE гель для рук антимикробный",
+              "accountCode": "FP870001",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP871",
+          "productCode": "AKMASEPT NO PERFUME спрей для рук антимикробный",
+          "products": [
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный",
+              "accountCode": "FP871014",
+              "volume": {
+                "value": 0.8,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный",
+              "accountCode": "FP871006",
+              "volume": {
+                "value": 0.8,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 800 мл, с номинальным объемом 730 мл, белый непрозрачный с нанесением под 871 продукт",
+                "code": "D800-PET-9003O-871",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона AS1000/АА1000/АВ500 белая",
+                "code": "CP-AS1000-9003",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный",
+              "accountCode": "FP871001",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-распылитель без красителя, d-20 мм, l-66 мм\r\nдля тары P50",
+                "code": "PS-20-66-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный",
+              "accountCode": "FP871002",
+              "volume": {
+                "value": 0.09,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 90 мл без красителя прозрачный",
+                "code": "P90-PET-0000T",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-распылитель без красителя, d-20 мм, l-79 мм\r\nдля тары P90",
+                "code": "PS-20-79-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный",
+              "accountCode": "FP871013",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный (СТМ «NORMAN»)",
+              "accountCode": "FP871008",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-распылитель без красителя, d-20 мм, l-66 мм\r\nдля тары P50",
+                "code": "PS-20-66-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный",
+              "accountCode": "FP871004",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP872",
+          "productCode": "AKMASEPT ALOE VERA спрей для рук антимикробный",
+          "products": [
+            {
+              "name": "AKMASEPT ALOE VERA спрей для рук антимикробный",
+              "accountCode": "FP872001",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-распылитель без красителя, d-20 мм, l-66 мм\r\nдля тары P50",
+                "code": "PS-20-66-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA спрей для рук антимикробный (СТМ «Greenwich»)",
+              "accountCode": "FP872005",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT ALOE VERA спрей для рук антимикробный (СТМ «NORMAN»)",
+              "accountCode": "FP872004",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP875",
+          "productCode": "AKMASEPT MINTY CHOCOLATE спрей для рук антимикробный",
+          "products": [
+            {
+              "name": "AKMASEPT MINTY CHOCOLATE спрей для рук антимикробный",
+              "accountCode": "FP875001",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 50 мл без красителя прозрачный",
+                "code": "P50-PET-0000T",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-распылитель без красителя, d-20 мм, l-66 мм\r\nдля тары P50",
+                "code": "PS-20-66-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТЫЕ РУЧКИ» Жидкое мыло «Ромашка»",
+              "accountCode": "A17811002",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТЫЕ РУЧКИ» Жидкое мыло «Ромашка»",
+              "accountCode": "A17811001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТЫЕ РУЧКИ» Жидкое мыло «Ромашка»",
+              "accountCode": "A17811003",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«ЧИСТЫЕ РУЧКИ» Жидкое мыло «Ромашка»",
+              "accountCode": "A17811004",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP878",
+          "productCode": "AKMASEPT ICE FRESH спрей для ног антимикробный",
+          "products": [
+            {
+              "name": "«EFFECT PROFESSIONAL» Концентрат для мытья ламината и паркета «Букет лаванды»",
+              "accountCode": "A17713001",
+              "volume": {
+                "value": 0.75,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT ICE FRESH спрей для ног антимикробный",
+              "accountCode": "FP878001",
+              "volume": {
+                "value": 0.09,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-распылитель без красителя, d-20 мм, l-79 мм\r\nдля тары P90",
+                "code": "PS-20-79-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP879",
+          "productCode": "AKMASEPT гель для рук антимикробный «VANILA LIGHT» с витамином Е в гранулах",
+          "products": [
+            {
+              "name": "AKMASEPT гель для рук антимикробный VANILLA LIGHT с витамином Е в гранулах",
+              "accountCode": "FP879001",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP880",
+          "productCode": "«AVRORA COSMETICS» Пена для ванн «SMOOZY Манговый шейк»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Пена для ванн «SMOOZY Манговый шейк»",
+              "accountCode": "FP880001",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP881",
+          "productCode": "«AVRORA COSMETICS» Крем-мыло «SMOOZY Манговый шейк»",
+          "products": [
+            {
+              "name": "«AVRORA COSMETICS» Крем‐мыло «SMOOZY Манговый шейк»",
+              "accountCode": "FP881001",
+              "volume": {
+                "value": 0.35,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 350 мл папоротниково-зеленый с нанесением под 881 продукт",
+                "code": "C350-HDPE-6025-881",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-24 мм, l-93 мм\r\n для C350/370",
+                "code": "PD-24-93-0000",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP882",
+          "productCode": "Akmasept «ALOE VERA» антибактериальное жидкое мыло",
+          "products": [
+            {
+              "name": "Akmasept «ALOE VERA» антибактериальное жидкое мыло",
+              "accountCode": "FP882016",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "Akmasept «ALOE VERA» антибактериальное жидкое мыло",
+              "accountCode": "FP882003",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 270 мл телегрей 4 непрозрачный с нанесением контрэтикетки под 882 продукт",
+                "code": "N270-PET-7047O-882B",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-24 мм, l-83 мм\r\nдля тары N270",
+                "code": "PD-24-83-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "Akmasept «ALOE VERA» антибактериальное жидкое мыло",
+              "accountCode": "FP882004",
+              "volume": {
+                "value": 0.8,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона AS1000/АА1000/АВ500 белая",
+                "code": "CP-AS1000-9003",
+                "color": "-"
+              }
+            },
+            {
+              "name": "Akmasept «ALOE VERA» антибактериальное жидкое мыло (СТМ «Ротавит кардио»)",
+              "accountCode": "FP882006",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "Akmasept «ALOE VERA» антибактериальное жидкое мыло",
+              "accountCode": "FP882011",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Канистра 5 л белая",
+                "code": "B5-HDPE-9003",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для канистры B5 синяя",
+                "code": "CP-B5-5010",
+                "color": "-"
+              }
+            },
+            {
+              "name": "Akmasept «ALOE VERA» антибактериальное жидкое мыло",
+              "accountCode": "FP882002",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л транспортный белый непрозрачный с нанесением под 882 продукт",
+                "code": "Q1000-PET-9016O-882",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-160 мм\r\nдля тары Q1000/E825",
+                "code": "PD-28-160-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "Akmasept «ALOE VERA» антибактериальное жидкое мыло (СТМ «Ротавит Кальциум») для ИП «Гермес»",
+              "accountCode": "FP882009",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "Akmasept «ALOE VERA» антибактериальное жидкое мыло (СТМ «СТАРТУМ») для ИП «Гермес»",
+              "accountCode": "FP882013",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "Akmasept «ALOE VERA» антибактериальное жидкое мыло",
+              "accountCode": "FP882015",
+              "volume": {
+                "value": 0.5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "Akmasept «ALOE VERA» антибактериальное жидкое мыло",
+              "accountCode": "FP882001",
+              "volume": {
+                "value": 0.33,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "Akmasept «ALOE VERA» антибактериальное жидкое мыло (СТМ «Ротацеф») для ИП «Гермес»",
+              "accountCode": "FP882010",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP883",
+          "productCode": "Akmasept «LAVENDER» антибактериальное жидкое мыло",
+          "products": [
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный (NORMAN)",
+              "accountCode": "A17871008",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный",
+              "accountCode": "A17871007",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный (без лицевой этикетки)",
+              "accountCode": "A17871005",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный",
+              "accountCode": "A17871006",
+              "volume": {
+                "value": 0.8,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный",
+              "accountCode": "A17871009",
+              "volume": {
+                "value": 0.73,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный",
+              "accountCode": "A17871010",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный",
+              "accountCode": "A17871004",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный",
+              "accountCode": "A17871011",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "Akmasept «LAVENDER» антибактериальное жидкое мыло",
+              "accountCode": "FP883001",
+              "volume": {
+                "value": 0.27,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 270 мл телегрей 4 непрозрачный с нанесением контрэтикетки под 883 продукт",
+                "code": "N270-PET-7047O-883B",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-24 мм, l-83 мм\r\nдля тары N270",
+                "code": "PD-24-83-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный",
+              "accountCode": "A17871002",
+              "volume": {
+                "value": 0.09,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный",
+              "accountCode": "A17871003",
+              "volume": {
+                "value": 0.15,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "AKMASEPT NO PERFUME спрей для рук антимикробный",
+              "accountCode": "A17871001",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "Akmasept «LAVENDER» антибактериальное жидкое мыло",
+              "accountCode": "FP883002",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона Р5000 cap транспортно-синяя",
+                "code": "CP/C-P5000-5017",
+                "color": "-"
+              }
+            },
+            {
+              "name": "Akmasept «LAVENDER» антибактериальное жидкое мыло",
+              "accountCode": "FP883005",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 1 л светло-ультрамариново‐синий прозрачный с нанесением под 798 продукт",
+                "code": "Q1000-PET-5002(0,3)T-798",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-160 мм\r\nдля тары Q1000/E825",
+                "code": "PD-28-160-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«AKMASEPT» ANTIMICROBICAL HAND SPRAY «NO PERFUME»",
+              "accountCode": "A17871012",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP884",
+          "productCode": "AKMASEPT гель для рук антимикробный «ALOE GOLD» с витамином Е в гранулах",
+          "products": [
+            {
+              "name": "AKMASEPT гель для рук антимикробный «ALOE GOLD» с витамином Е в гранулах",
+              "accountCode": "FP884001",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP885",
+          "productCode": "«AKMASEPT» «PRIME» спрей для рук антимикробный",
+          "products": [
+            {
+              "name": "«AKMASEPT» «PRIME» спрей для рук антимикробный",
+              "accountCode": "FP885002",
+              "volume": {
+                "value": 0.45,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "Флакон 450 мл светло-серый прозрачный с нанесением под 885 продукт",
+                "code": "D450-PET-7035T-885",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Помпа-дозатор без красителя, d-28 мм, l-135 мм\r\nдля тары E500",
+                "code": "PD-28-135-0000",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«AKMASEPT» «PRIME» спрей для рук антимикробный",
+              "accountCode": "FP885003",
+              "volume": {
+                "value": 0.73,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "-",
+              "accountCode": "FP885005",
+              "volume": {
+                "value": 1,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            },
+            {
+              "name": "«AKMASEPT» «PRIME» спрей для рук антимикробный",
+              "accountCode": "FP885004",
+              "volume": {
+                "value": 5,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "Крышка для флакона Р5000 cap транспортно-синяя",
+                "code": "CP/C-P5000-5017",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP887",
+          "productCode": "«AKMASEPT» VIP Premium Edition гель для рук антимикробный",
+          "products": [
+            {
+              "name": "«AKMASEPT» VIP Premium Edition гель для рук антимикробный",
+              "accountCode": "FP887001",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP889",
+          "productCode": "«Всё в дом» Гель антимикробный «ALOE VERA»",
+          "products": [
+            {
+              "name": "«Всё в дом» Гель антимикробный «Aloe Vera» (СТМ «ANTISEPT»)",
+              "accountCode": "FP889001",
+              "volume": {
+                "value": 0.05,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        },
+        {
+          "productGroupName": "FP902",
+          "productCode": "Концентрат смазки для конвейерной ленты и тары «ЛУБРИЛАЙН 902»",
+          "products": [
+            {
+              "name": "«EFFECT» Гель для мытья посуды «ЭКО»",
+              "accountCode": "-",
+              "volume": {
+                "value": 0.66,
+                "unit": "л."
+              },
+              "consumerContainer": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              },
+              "closure": {
+                "name": "-",
+                "code": "-",
+                "color": "-"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "doc": {
+    "code": "Л‐ПК-06-74/4",
+    "startDate": "06-04-2023"
+  },
+  "company": {
+    "name": "ТОО Производственный комплекс Аврора",
+    "codeTitle": "УЧЕТНЫЕ КОДЫ ГОТОВОЙ ПРОДУКЦИИ"
+  },
+  "creators": [
+    {
+      "date": "",
+      "name": "",
+      "role": "",
+      "type": "разработан"
+    },
+    {
+      "date": "",
+      "name": "",
+      "role": "",
+      "type": "согласован"
+    },
+    {
+      "date": "",
+      "name": "",
+      "role": "",
+      "type": "утвержден"
+    }
+  ]
+}
